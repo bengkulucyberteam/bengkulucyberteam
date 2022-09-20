@@ -1,0 +1,1730 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+	<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Pengadilan Negeri Takengon | MAMPATDI</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://pn-takengon.go.id/pnbaru/xmlrpc.php">
+<meta property="og:image" content=""/>
+<meta property="og:title" content=""/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content=""/>
+<meta property="og:url" content="http://pn-takengon.go.id/pnbaru/"/>
+<meta property="og:site_name" content="Pengadilan Negeri Takengon"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="" />
+<link rel="apple-touch-icon" href="http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/apple-touch-icon-precomposed.png" />
+
+<link rel="pingback" href="http://pn-takengon.go.id/pnbaru/xmlrpc.php" />
+        <!--[if lt IE 9]>
+	<script src="http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/framework/helpers/js/html5.js"></script>
+	<script src="http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+
+        		<link href='http://fonts.googleapis.com/css?family=Arial,+Helvetica,+sans-serif:700&subset=' rel='stylesheet' type='text/css'>	        	    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+    	<link rel='dns-prefetch' href='//translate.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Pengadilan Negeri Takengon &raquo; Feed" href="http://pn-takengon.go.id/pnbaru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pengadilan Negeri Takengon &raquo; Comments Feed" href="http://pn-takengon.go.id/pnbaru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/pn-takengon.go.id\/pnbaru\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.20"}};
+			!function(t,a,e){var r,i,n,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(n=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},i=0;i<n.length;i++)e.supports[n[i]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,56826,8203,55356,56819),0,0),e===o.toDataURL())?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55358,56794,8205,9794,65039),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55358,56794,8203,9794,65039),0,0),e!==o.toDataURL()}return!1}(n[i]),e.supports.everything=e.supports.everything&&e.supports[n[i]],"flag"!==n[i]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[n[i]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/contact-form-7/includes/css/styles.css?ver=5.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ff-google-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C700&#038;ver=071120180241' type='text/css' media='all' />
+<link rel='stylesheet' id='ff-shortcodes-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/fruitful-shortcodes/fruitful-shortcodes-2.0.0/assets/css/front.css?ver=071120180241' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/google-language-translator/css/style.css?ver=6.0.4' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/google-language-translator/css/toolbar.css?ver=6.0.4' type='text/css' media='' />
+<link rel='stylesheet' id='wpgs-styles1-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/css/gspeech.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgs-styles12-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/css/the-tooltip.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/simple-image-popup//css/magnific-popup.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-image-popup-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/simple-image-popup//css/simple-image-popup.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-dark-mode-frontend-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/wp-dark-mode/assets/css/frontend.css?ver=2.2.2' type='text/css' media='all' />
+<style id='wp-dark-mode-frontend-inline-css' type='text/css'>
+body{--wp-dark-mode-scale: 1}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/style.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/css/plugins.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/css/main.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/css/media.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://pn-takengon.go.id/pnbaru/wp-includes/css/dashicons.min.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='vcv:assets:front:style-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/visualcomposer/public/dist/front.bundle.css?ver=27.1' type='text/css' media='all' />
+<style id='vcv-globalElementsCss-inline-css' type='text/css'>
+.widget-wa1{left:-40px;position:relative;height:auto;bottom:-40px;width:50%;-webkit-transform:scale(1.2);transform:scale(1.2);-webkit-animation:zoominout 1s linear infinite;animation:zoominout 1s linear infinite}.widget-wa2{position:relative;bottom:0;width:80%}@-webkit-keyframes zoominout{50%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes zoominout{50%{-webkit-transform:scale(1);transform:scale(1)}}.vc_main_col:first-child,.vc_sec_sidebar:first-child,.vc_sidebar:first-child{margin-top:5px!important}.vc_main_col:last-child,.vc_main_col:nth-child(3n+3),.vc_sec_sidebar:last-child,.vc_sec_sidebar:nth-child(3n+3),.vc_sidebar:last-child,.vc_sidebar:nth-child(3n+3){margin-top:5px!important}
+</style>
+<link rel='stylesheet' id='vcv:assets:source:main:styles:assets-bundles2470222904beb0ff082eb4c2aee093ecsourcecss-css'  href='http://pn-takengon.go.id/pnbaru/tkn/uploads/visualcomposer-assets/assets-bundles/2470222904beb0ff082eb4c2aee093ec.source.css?ver=27.1.2470222904beb0ff082eb4c2aee093ec-92' type='text/css' media='all' />
+<link rel='stylesheet' id='wpglobus-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/includes/css/wpglobus.css?ver=2.4.17' type='text/css' media='all' />
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/js/color.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/js/jQueryRotate.2.1.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/js/easing.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/gspeech/includes/js/mediaelement-and-player.min.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/wp-dark-mode/assets/js/dark-mode.js?ver=2.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/pnbaru\/","uid":"0","time":"1663651716","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/utils.min.js?ver=4.8.20'></script>
+<link rel='https://api.w.org/' href='http://pn-takengon.go.id/pnbaru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pn-takengon.go.id/pnbaru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pn-takengon.go.id/pnbaru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.20" />
+<link rel="canonical" href="http://pn-takengon.go.id/pnbaru/" />
+<link rel='shortlink' href='http://pn-takengon.go.id/pnbaru/' />
+<link rel="alternate" type="application/json+oembed" href="http://pn-takengon.go.id/pnbaru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpn-takengon.go.id%2Fpnbaru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://pn-takengon.go.id/pnbaru/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpn-takengon.go.id%2Fpnbaru%2F&#038;format=xml" />
+<style type="text/css">#google_language_translator select.goog-te-combo { color:#32373c; }#glt-translate-trigger { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff; }#glt-translate-trigger { background:#f89406; }.goog-te-gadget .goog-te-combo { width:100%; }</style><meta name="generator" content="Powered by Visual Composer Website Builder - fast and easy to use drag and drop builder for experts and beginners."/>                <script>
+					(function() { window.wpDarkMode = {"config":{"brightness":100,"contrast":90,"sepia":10},"enable_preset":false,"customize_colors":false,"colors":{"bg":"#000","text":"#dfdedb","link":"#e58c17"},"enable_frontend":true,"enable_backend":false,"enable_os_mode":true,"excludes":"rs-fullwidth-wrap,.mejs-container","includes":"","is_excluded":false,"remember_darkmode":false,"default_mode":false,"keyboard_shortcut":true,"url_parameter":false,"images":"","videos":"","is_pro_active":false,"is_ultimate_active":false,"pro_version":0,"is_elementor_editor":false,"is_block_editor":false,"frontend_mode":false} ; window.checkOsDarkMode = () => { if (!window.wpDarkMode.enable_os_mode || localStorage.getItem('wp_dark_mode_active')) return false; const darkMediaQuery = window.matchMedia('(prefers-color-scheme: dark)'); if (darkMediaQuery.matches) return true; try { darkMediaQuery.addEventListener('change', function(e) { return e.matches == true; }); } catch (e1) { try { darkMediaQuery.addListener(function(e) { return e.matches == true; }); } catch (e2) { console.error(e2); return false; } } return false; }; const is_saved = localStorage.getItem('wp_dark_mode_active'); const isCustomColor = parseInt(""); const shouldDarkMode = is_saved == '1' || (!is_saved && window.checkOsDarkMode()); if (!shouldDarkMode) return; document.querySelector('html').classList.add('wp-dark-mode-active'); const isPerformanceMode = Boolean(  ); if (!isCustomColor && !isPerformanceMode) { var css = `body, div, section, header, article, main, aside{background-color: #2B2D2D !important;}`; var head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style'); style.setAttribute('id', 'pre_css'); head.appendChild(style); style.type = 'text/css'; if (style.styleSheet) { style.styleSheet.cssText = css; } else { style.appendChild(document.createTextNode(css)); } } })();
+				</script>
+				<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+			<style type="text/css" media="screen">
+				.wpglobus_flag_en{background-image:url(http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/flags/us.png)}
+.wpglobus_flag_es{background-image:url(http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/flags/es.png)}
+.wpglobus_flag_de{background-image:url(http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/flags/de.png)}
+.wpglobus_flag_fr{background-image:url(http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/flags/fr.png)}
+.wpglobus_flag_ru{background-image:url(http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/flags/ru.png)}
+			</style>
+			<link rel="alternate" hreflang="en-US" href="http://pn-takengon.go.id/pnbaru/" /><link rel="alternate" hreflang="es-ES" href="http://pn-takengon.go.id/pnbaru/es/" /><link rel="alternate" hreflang="de-DE" href="http://pn-takengon.go.id/pnbaru/de/" /><link rel="alternate" hreflang="fr-FR" href="http://pn-takengon.go.id/pnbaru/fr/" /><link rel="alternate" hreflang="ru-RU" href="http://pn-takengon.go.id/pnbaru/ru/" /><link rel="icon" href="http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/cropped-CEK-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/cropped-CEK-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/cropped-CEK-180x180.png" />
+<meta name="msapplication-TileImage" content="http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/cropped-CEK-270x270.png" />
+<style type="text/css" title="dynamic-css" class="options-output">.mom_main_font,.topbar,#navigation .main-menu,.breaking-news,.breaking-news .bn-title,.feature-slider li .slide-caption h2,.news-box .nb-header .nb-title,a.show-more,.widget .widget-title,.widget .mom-socials-counter ul li,.main_tabs .tabs a,.mom-login-widget,.mom-login-widget input,.mom-newsletter h4,.mom-newsletter input,.mpsw-slider .slide-caption,.tagcloud a,button,input,select,textarea,.weather-widget,.weather-widget h3,.search-wrap .search-results-title,.show_all_results,.mom-social-share .ss-icon span.count,.mom-timeline,.mom-reveiw-system .review-header h2,.mom-reveiw-system .review-summary h3,.mom-reveiw-system .user-rate h3,.mom-reveiw-system .review-summary .review-score,.mom-reveiw-system .mom-bar,.mom-reveiw-system .review-footer,.mom-reveiw-system .stars-cr .cr,.mom-reveiw-system .review-circles .review-circle,.p-single .post-tags,.np-posts ul li .details .link,h2.single-title,.page-title,label,.portfolio-filter li,.pagination .main-title h1,.main-title h2,.main-title h3,.main-title h4,.main-title h5,.main-title h6,.mom-ad-empty,.user-star-rate .yr,.comment-wrap .commentnumber,.copyrights-area,.news-box .nb-footer a,#bbpress-forums li.bbp-header,.bbp-forum-title,div.bbp-template-notice,div.indicator-hint,#bbpress-forums fieldset.bbp-form legend,.bbp-s-title,#bbpress-forums .bbp-admin-links a,#bbpress-forums #bbp-user-wrapper h2.entry-title,.mom_breadcrumb,.single-author-box .articles-count,.not-found-wrap,.not-found-wrap h1,.gallery-post-slider.feature-slider li .slide-caption.fs-caption-alt p,.chat-author,.accordion .acc_title,.acch_numbers,.logo span,.device-menu-holder,#navigation .device-menu,.widget li .cat_num, .wp-caption-text, .mom_quote, div.progress_bar span, .widget_display_stats dl{font-family:Arial, Helvetica, sans-serif;}body{font-weight:normal;font-style:normal;text-align:justify;font-size:14px;line-height:20px;color:#000000;}#navigation .main-menu > li > a, #navigation .nav-search, .search-wrap ul.s-results .s-details h4, .search-wrap .search-results-title, .show_all_results a,  .ajax_search_results .sw-not_found{font-weight:normal;font-style:normal;}</style><style type="text/css">
+    
+.header > .inner, .header .logo {
+line-height: 130px;
+height: 130px;
+}
+                                    </style>
+    </head>
+    <body class="home page-template-default page page-id-92 vcwb fullwidth layout-boxed fade-imgs-in-appear navigation_highlight_ancestor wpb-js-composer js-comp-ver-4.2.2 vc_responsive">
+            <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="boxed-wrap clearfix">
+		<div class="printf"><script type='text/javascript'>
+<!--
+var months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+var myDays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jum&#39;at', 'Sabtu'];
+var date = new Date();
+var day = date.getDate();
+var month = date.getMonth();
+var thisDay = date.getDay(),
+    thisDay = myDays[thisDay];
+var yy = date.getYear();
+var year = (yy < 1000) ? yy + 1900 : yy;
+document.write(thisDay + ', ' + day + ' ' + months[month] + ' ' + year);
+//-->
+</script>
+</div>
+	    <div id="header-wrapper">
+                            <header class="header">
+                <div class="inner">
+                    <div class="logo">
+                    <a href="http://pn-takengon.go.id/pnbaru">
+		                                                    <img src="http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/images/logo.png" alt="Pengadilan Negeri Takengon" />
+                                                                                           <img class="mom_retina_logo" src="http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/images/retina_logo.png" width="240" height="60" alt="Pengadilan Negeri Takengon" />
+                                                		                    </a>
+                    </div>
+                                    <div class="clear"></div>
+                </div>
+            </header>
+	    	    </div> <!--header wrap-->
+                                    <nav id="navigation" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation" class="dd-effect-slide ">
+                <div class="navigation-inner">
+                <div class="inner">
+                                            <ul id="menu-main-menu" class="main-menu main-default-menu mom_visibility_desktop"><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home mom_mega menu-item-depth-0"><a href="http://pn-takengon.go.id/pnbaru/"><i class="momizat-icon-library"></i>Beranda</a></li>
+<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#"><i class="momizat-icon-office"></i>Tentang Pengadilan</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1413" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/pengantar-ketua-pengadilan/">Pengantar Ketua Pengadilan</a></li>
+	<li id="menu-item-1416" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/visi-misi-pengadilan/">Visi &#038; Misi Pengadilan</a></li>
+	<li id="menu-item-2725" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/motto/">Motto</a></li>
+	<li id="menu-item-1454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Profil Pengadilan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1420" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sejarah-pn-takengon/">Sejarah PN Takengon</a></li>
+		<li id="menu-item-1423" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-organisasi/">Struktur Organisasi</a></li>
+		<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/wilayah-yuridiksi/">Wilayah Yuridiksi</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-1455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Profil Hakim dan Pegawai</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-7301" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/riwayat-ketua/">Riwayat Ketua</a></li>
+		<li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ketua/">Ketua</a></li>
+		<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/wakil-ketua/">Wakil Ketua</a></li>
+		<li id="menu-item-1457" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/hakim/">Hakim</a></li>
+		<li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/panitera-sekretaris/">Kepaniteraan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-6910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="#">Kepaniteraan Pidana</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas/">Uraian Tugas</a></li>
+				<li id="menu-item-2115" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-pidana-2/">Alur Perkara Pidana</a></li>
+				<li id="menu-item-2125" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/proses-persidangan/">Proses Persidangan</a></li>
+				<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-pidana/">Pendaftaran Perkara Pidana</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-banding/">Pidana Banding</a></li>
+					<li id="menu-item-2136" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-kasasi/">Pidana Kasasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/pidana-kasasi/">Proses Acara Perkara Pidana</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-biasa/">Pidana Biasa</a></li>
+					<li id="menu-item-2145" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-singkat/">Pidana Singkat</a></li>
+					<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-cepat/">Pidana Cepat</a></li>
+					<li id="menu-item-2158" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-rehabilitasi/">Pidana Rehabilitasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/pidana-rehabilitasi/">Upaya Hukum</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2162" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-banding/">Upaya Pidana Banding</a></li>
+					<li id="menu-item-2165" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-kasasi/">Upaya Pidana Kasasi</a></li>
+					<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-pidana-pk/">Upaya Pidana PK</a></li>
+					<li id="menu-item-2171" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-pidana-grasi/">Upaya Pidana Grasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-perdata/">Kepaniteraan Perdata</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-2/">Uraian Tugas</a></li>
+				<li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-perdata/">Alur Perkara Perdata</a></li>
+				<li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-perdata/">Pendaftaran Perkara Perdata</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2215" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-gugatan-permohonan/">Perdata Gugatan – Permohonan</a></li>
+					<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-banding/">Perdata Banding</a></li>
+					<li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Perdata Kasasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Proses Acara Perdata</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2230" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/gugatan/">Gugatan</a></li>
+					<li id="menu-item-2233" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/penyitaan/">Penyitaan</a></li>
+					<li id="menu-item-2236" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perlawanan/">Perlawanan</a></li>
+					<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/eksekusi/">Eksekusi</a>
+					<ul class="sub-menu ">
+						<li id="menu-item-7028" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-6"><a href="http://pn-takengon.go.id/pnbaru/alur-permohonan-dan-pelaksanaan-eksekusi-riil/">Alur Permohonan dan Pelaksanaan Eksekusi Riil</a></li>
+					</ul>
+<i class='responsive-caret'></i>
+</li>
+					<li id="menu-item-2242" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/lelang/">Lelang</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/lelang/">Upaya Hukum</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2245" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/banding-perdata/">Banding Perdata</a></li>
+					<li id="menu-item-2249" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/kasasi-perdata/">Kasasi Perdata</a></li>
+					<li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/peninjauan-kembali-perdata/">Peninjauan Kembali Perdata</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-1738" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Layanan Pengadilan</a></li>
+				<li id="menu-item-6080" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/sisa-panjar-biaya-perkara/">Sisa Panjar Biaya Perkara</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-hukum/">Kepaniteraan Hukum</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2256" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-3/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-1445" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/panitera-peganti-juru-sita/">PP &#038; JSP</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sekretaris/">Kesekretariatan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-2098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-keuangan-dan-umum/">Keuangan dan Umum</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-7/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-kepegawaian-dan-ortala/">Kepegawaian dan Ortala</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-4/">Uraian Tugas</a></li>
+				<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/syarat-kenaikan-pangkat/">Syarat Kenaikan Pangkat</a></li>
+				<li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/daftar-urut-kepangkatan/">Daftar Urut Kepangkatan</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-ptip/">PTIP</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2281" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-5/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/pegawai-2/">Pegawai</a></li>
+		<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/honorer/">PPNPN</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Profil Role Model &#038; Agen Perubahan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6414" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/profil-role-model/">Profil Role Model</a></li>
+		<li id="menu-item-6419" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/profil-agen-perubahan/">Profil Agen Perubahan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6037" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/daftar-mediator/">Daftar Mediator</a></li>
+	<li id="menu-item-1648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Sistem Pengelolaan Pengadilan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1649" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://e-learning.mahkamahagung.go.id/">E-Learning</a></li>
+		<li id="menu-item-6406" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://jdih.mahkamahagung.go.id/">Kebijakan / Yurisprudensi</a></li>
+		<li id="menu-item-6429" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/renstra/">Rencana Strategis</a></li>
+		<li id="menu-item-6428" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">Rencana Kerja dan Anggaran</a></li>
+		<li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/kode-etik-hakim/">Kode Etik Hakim</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kode-etik-panitera-dan-juru-sita/">Kode Etik Panitera dan Juru Sita</a></li>
+			<li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/aturan-perilaku-pegawai-ma-ri/">Aturan Perilaku Pegawai MA RI</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Layanan Publik</a>
+<ul class="sub-menu ">
+	<li id="menu-item-6369" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">PTSP</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6371" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/jenis-layanan/">Jenis Layanan</a></li>
+		<li id="menu-item-6372" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/standar-pelayanan/">Standar Pelayanan</a></li>
+		<li id="menu-item-4719" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/maklumat-pelayanan/">Maklumat Pelayanan</a></li>
+		<li id="menu-item-6370" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/kompensasi-pelayanan/">Kompensasi Pelayanan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Layanan Disabilitas</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6410" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pelayanan-bagi-penyandang-disabilitas/">Prosedur Pelayanan Bagi Penyandang Disabilitas</a></li>
+		<li id="menu-item-7256" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/fasilitas-disabilitas/">fasilitas disabilitas</a></li>
+		<li id="menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/aksesibilitas-difabel/">Aksesibilitas</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6926" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/tata-tertib-pengadilan/">Tata Tertib Pengadilan</a></li>
+	<li id="menu-item-6470" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Informasi Perkara</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6479" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/delegasi/">Delegasi</a></li>
+		<li id="menu-item-6483" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/statistik-perkara/">Statistik Perkara</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-1466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Laporan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6487" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/hasil-penelitian/">Hasil Penelitian</a></li>
+		<li id="menu-item-6495" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ringkasan-lkjip/">Ringkasan LKjIP</a></li>
+		<li id="menu-item-6491" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ringkasan-daftar-aset-inventaris/">Ringkasan Daftar Aset &#038; Inventaris</a></li>
+		<li id="menu-item-1710" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-tahunan/">Laporan Tahunan</a></li>
+		<li id="menu-item-3217" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-realisasi-anggaran/">Laporan Keuangan</a></li>
+		<li id="menu-item-6562" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">RKAKL</a></li>
+		<li id="menu-item-6433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://http://pn-takengon.go.id/pnbaru">SAKIP</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/indikator-kerja-utama/">Indikator Kerja Utama</a></li>
+			<li id="menu-item-1719" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/renstra/">Renstra</a></li>
+			<li id="menu-item-1726" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/rencana-kerja-tahunan/">Rencana Kerja Tahunan</a></li>
+			<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/lakip/">LKJIP</a></li>
+			<li id="menu-item-2619" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">RKAKL</a></li>
+			<li id="menu-item-1729" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/dokumen-perjanjian-kinerja/">Dokumen Perjanjian Kinerja</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-6019" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan/analisis-manajemen-risiko/">Analisis Manajemen Resiko</a></li>
+		<li id="menu-item-6437" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-pelayanan-informasi-publik/">Laporan Pelayanan Informasi Publik</a></li>
+		<li id="menu-item-6441" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lhkpn/">LHKPN</a></li>
+		<li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-skm/">Laporan SKM</a></li>
+		<li id="menu-item-6449" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-spak/">Laporan SPAK</a></li>
+		<li id="menu-item-6578" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/surveiharian/">Survei Harian</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6468" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Pengumuman</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1743" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://tilang.pn-takengon.go.id">Denda Tilang</a></li>
+		<li id="menu-item-6703" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sisa-panjar-biaya-perkara/">Sisa Panjar Biaya Perkara</a></li>
+		<li id="menu-item-6453" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lelang-barang-dan-jasa/">Lelang Barang dan Jasa</a></li>
+		<li id="menu-item-1740" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://sipp.pn-takengon.go.id/list_jadwal_sidang">Jadwal Sidang</a></li>
+		<li id="menu-item-6735" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Radius Panggilan</a></li>
+		<li id="menu-item-6457" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/panggilan-kepada-pihak-yang-tidak-diketahui-alamatnya/">Panggilan Kepada Pihak Yang Tidak Diketahui Alamatnya</a></li>
+		<li id="menu-item-6461" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/penerimaan-pegawai/">Penerimaan Pegawai</a></li>
+		<li id="menu-item-1461" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/jam-kerja/">Jam Kerja</a></li>
+		<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/tata-tertib-pengadilan/">Tata Tertib Pengadilan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1750" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a href="http://www.badilum.info/index.php/article/21">Surat Keputusan Dirjen</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6465" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/prosedur-permohonan-informasi/">Prosedur Permohonan Informasi</a></li>
+	<li id="menu-item-6469" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Pengaduan Layanan Publik</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/pengetahuan-publik/">Pengetahuan Publik</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/hak-pencari-keadilan/">Hak Pencari Keadilan</a></li>
+			<li id="menu-item-1874" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/prinsip-mengadili/">Prinsip Mengadili</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="#">Layanan Informasi Perkara</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-4691" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pengaduan/">Prosedur Pengaduan</a></li>
+			<li id="menu-item-1484" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a target="_blank" href="http://putusan.mahkamahagung.go.id/direktori">Direktori Putusan</a></li>
+			<li id="menu-item-1741" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a href="http://sipp.pn-takengon.go.id">Sistem Informasi Penelusuran Perkara</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1742" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://siwas.mahkamahagung.go.id/">SIWAS (Sistem Informasi Pengawasan) MA</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-2828" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-1"><a title="Perpustakaan" href="http://perpustakaan.pn-takengon.go.id/">Perpustakaan</a></li>
+	<li id="menu-item-5657" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/layanan-pengadilan-negeri-takengon/">Layanan Pendukung</a></li>
+	<li id="menu-item-6790" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/e-brosur/">E-Brosur</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Layanan Hukum</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="#">Layanan Hukum Bagi Masyarakat Kurang Mampu</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6786" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/peraturan-dan-kebijakan/">Peraturan dan Kebijakan</a></li>
+		<li id="menu-item-6781" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/zitting-plat/">Zitting Plat</a></li>
+		<li id="menu-item-6794" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pembebasan-biaya-perkara-prodeo/">Prosedur Pembebasan Biaya Perkara (Prodeo)</a></li>
+		<li id="menu-item-1679" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/posbakum/">Posbakum</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-7450" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Prosedur Pengajuan &#038; Biaya Perkara</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-7454" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru">Prosedur Pengajuan Perkara</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-7452" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-gugatan-permohonan/">Perdata Gugatan – Permohonan</a></li>
+			<li id="menu-item-7451" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Perdata Kasasi</a></li>
+			<li id="menu-item-7453" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-banding/">Perdata Banding</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-7455" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Radius Panggilan</a></li>
+		<li id="menu-item-7544" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/Panjar-Biaya-Layanan-Pada-PN-Takengon.pdf">Biaya Layanan Lainnya</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Berita</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1476" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/category/berita-terkini/">Berita Terkini</a></li>
+	<li id="menu-item-1475" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/category/artikel/">Artikel</a></li>
+	<li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/galery-kegiatan/">Photo Gallery</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6094" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/galery-kegiatan/sarana-dan-prasarana/">Sarana dan Prasarana</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/contact-us/video/">Video Gallery</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/mekanisme-gugatan-sederhana/">Mekanisme Gugatan Sederhana</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Hubungi Kami</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1753" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/alamat-pengadilan/">Alamat Pengadilan</a></li>
+	<li id="menu-item-6391" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/sosial-media/">Sosial Media</a></li>
+	<li id="menu-item-6432" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-1"><a href="https://api.whatsapp.com/send?phone=+6282370060060&amp;text=Halo">MasEndi</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-6374" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="http://pn-takengon.go.id/pnbaru/">Reformasi Birokrasi</a>
+<ul class="sub-menu ">
+	<li id="menu-item-6799" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru">Zona Integritas</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6159" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/dokumen-pembangunan-zona-integritas/">Dokumen Pembangunan Zona Integritas</a></li>
+		<li id="menu-item-6635" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-zi/">Struktur ZI</a></li>
+		<li id="menu-item-6800" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lke-zi/">LKE ZI</a></li>
+		<li id="menu-item-6639" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/inovasi-pengadilan/">Inovasi Pengadilan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/akreditasi-penjaminan-mutu/">Akreditasi Penjaminan Mutu</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6631" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-akreditasi/">Struktur Akreditasi</a></li>
+		<li id="menu-item-6643" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/manual-mutu/">Manual Mutu</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>                                                                        <div class="mom_visibility_device device-menu-wrap ">
+                        <div class="device-menu-holder">
+                            <i class="fa-icon-align-justify mh-icon"></i> <span class="the_menu_holder_area"><i class="dmh-icon"></i>Menu</span><i class="mh-caret"></i>
+                        </div>
+                        <ul id="menu-main-menu-1" class="device-menu"><li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home mom_mega menu-item-depth-0"><a href="http://pn-takengon.go.id/pnbaru/"><i class="momizat-icon-library"></i>Beranda</a></li>
+<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#"><i class="momizat-icon-office"></i>Tentang Pengadilan</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1413" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/pengantar-ketua-pengadilan/">Pengantar Ketua Pengadilan</a></li>
+	<li id="menu-item-1416" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/visi-misi-pengadilan/">Visi &#038; Misi Pengadilan</a></li>
+	<li id="menu-item-2725" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/motto/">Motto</a></li>
+	<li id="menu-item-1454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Profil Pengadilan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1420" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sejarah-pn-takengon/">Sejarah PN Takengon</a></li>
+		<li id="menu-item-1423" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-organisasi/">Struktur Organisasi</a></li>
+		<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/wilayah-yuridiksi/">Wilayah Yuridiksi</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-1455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Profil Hakim dan Pegawai</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-7301" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/riwayat-ketua/">Riwayat Ketua</a></li>
+		<li id="menu-item-1430" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ketua/">Ketua</a></li>
+		<li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/wakil-ketua/">Wakil Ketua</a></li>
+		<li id="menu-item-1457" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/hakim/">Hakim</a></li>
+		<li id="menu-item-1436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/panitera-sekretaris/">Kepaniteraan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-6910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="#">Kepaniteraan Pidana</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2110" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas/">Uraian Tugas</a></li>
+				<li id="menu-item-2115" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-pidana-2/">Alur Perkara Pidana</a></li>
+				<li id="menu-item-2125" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/proses-persidangan/">Proses Persidangan</a></li>
+				<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-pidana/">Pendaftaran Perkara Pidana</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2132" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-banding/">Pidana Banding</a></li>
+					<li id="menu-item-2136" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-kasasi/">Pidana Kasasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/pidana-kasasi/">Proses Acara Perkara Pidana</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2140" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-biasa/">Pidana Biasa</a></li>
+					<li id="menu-item-2145" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-singkat/">Pidana Singkat</a></li>
+					<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-cepat/">Pidana Cepat</a></li>
+					<li id="menu-item-2158" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/pidana-rehabilitasi/">Pidana Rehabilitasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2161" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/pidana-rehabilitasi/">Upaya Hukum</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2162" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-banding/">Upaya Pidana Banding</a></li>
+					<li id="menu-item-2165" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-kasasi/">Upaya Pidana Kasasi</a></li>
+					<li id="menu-item-2168" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-hukum-pidana-pk/">Upaya Pidana PK</a></li>
+					<li id="menu-item-2171" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/upaya-pidana-grasi/">Upaya Pidana Grasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-perdata/">Kepaniteraan Perdata</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2202" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-2/">Uraian Tugas</a></li>
+				<li id="menu-item-2211" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-perdata/">Alur Perkara Perdata</a></li>
+				<li id="menu-item-2213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/alur-perkara-perdata/">Pendaftaran Perkara Perdata</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2215" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-gugatan-permohonan/">Perdata Gugatan – Permohonan</a></li>
+					<li id="menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-banding/">Perdata Banding</a></li>
+					<li id="menu-item-2226" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Perdata Kasasi</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Proses Acara Perdata</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2230" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/gugatan/">Gugatan</a></li>
+					<li id="menu-item-2233" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/penyitaan/">Penyitaan</a></li>
+					<li id="menu-item-2236" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/perlawanan/">Perlawanan</a></li>
+					<li id="menu-item-2239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/eksekusi/">Eksekusi</a>
+					<ul class="sub-menu ">
+						<li id="menu-item-7028" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-6"><a href="http://pn-takengon.go.id/pnbaru/alur-permohonan-dan-pelaksanaan-eksekusi-riil/">Alur Permohonan dan Pelaksanaan Eksekusi Riil</a></li>
+					</ul>
+<i class='responsive-caret'></i>
+</li>
+					<li id="menu-item-2242" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/lelang/">Lelang</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-2247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/lelang/">Upaya Hukum</a>
+				<ul class="sub-menu ">
+					<li id="menu-item-2245" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/banding-perdata/">Banding Perdata</a></li>
+					<li id="menu-item-2249" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/kasasi-perdata/">Kasasi Perdata</a></li>
+					<li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-5"><a href="http://pn-takengon.go.id/pnbaru/peninjauan-kembali-perdata/">Peninjauan Kembali Perdata</a></li>
+				</ul>
+<i class='responsive-caret'></i>
+</li>
+				<li id="menu-item-1738" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Layanan Pengadilan</a></li>
+				<li id="menu-item-6080" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/sisa-panjar-biaya-perkara/">Sisa Panjar Biaya Perkara</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kepaniteraan-hukum/">Kepaniteraan Hukum</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2256" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-3/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-1445" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/panitera-peganti-juru-sita/">PP &#038; JSP</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sekretaris/">Kesekretariatan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-2098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-keuangan-dan-umum/">Keuangan dan Umum</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-7/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-kepegawaian-dan-ortala/">Kepegawaian dan Ortala</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2260" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-4/">Uraian Tugas</a></li>
+				<li id="menu-item-2263" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/syarat-kenaikan-pangkat/">Syarat Kenaikan Pangkat</a></li>
+				<li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/daftar-urut-kepangkatan/">Daftar Urut Kepangkatan</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+			<li id="menu-item-2095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/bagian-ptip/">PTIP</a>
+			<ul class="sub-menu ">
+				<li id="menu-item-2281" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-4"><a href="http://pn-takengon.go.id/pnbaru/uraian-tugas-5/">Uraian Tugas</a></li>
+			</ul>
+<i class='responsive-caret'></i>
+</li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/pegawai-2/">Pegawai</a></li>
+		<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/honorer/">PPNPN</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Profil Role Model &#038; Agen Perubahan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6414" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/profil-role-model/">Profil Role Model</a></li>
+		<li id="menu-item-6419" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/profil-agen-perubahan/">Profil Agen Perubahan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6037" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/daftar-mediator/">Daftar Mediator</a></li>
+	<li id="menu-item-1648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Sistem Pengelolaan Pengadilan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1649" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://e-learning.mahkamahagung.go.id/">E-Learning</a></li>
+		<li id="menu-item-6406" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://jdih.mahkamahagung.go.id/">Kebijakan / Yurisprudensi</a></li>
+		<li id="menu-item-6429" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/renstra/">Rencana Strategis</a></li>
+		<li id="menu-item-6428" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">Rencana Kerja dan Anggaran</a></li>
+		<li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/kode-etik-hakim/">Kode Etik Hakim</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/kode-etik-panitera-dan-juru-sita/">Kode Etik Panitera dan Juru Sita</a></li>
+			<li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/aturan-perilaku-pegawai-ma-ri/">Aturan Perilaku Pegawai MA RI</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Layanan Publik</a>
+<ul class="sub-menu ">
+	<li id="menu-item-6369" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">PTSP</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6371" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/jenis-layanan/">Jenis Layanan</a></li>
+		<li id="menu-item-6372" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/standar-pelayanan/">Standar Pelayanan</a></li>
+		<li id="menu-item-4719" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/maklumat-pelayanan/">Maklumat Pelayanan</a></li>
+		<li id="menu-item-6370" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/kompensasi-pelayanan/">Kompensasi Pelayanan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Layanan Disabilitas</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6410" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pelayanan-bagi-penyandang-disabilitas/">Prosedur Pelayanan Bagi Penyandang Disabilitas</a></li>
+		<li id="menu-item-7256" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/fasilitas-disabilitas/">fasilitas disabilitas</a></li>
+		<li id="menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/aksesibilitas-difabel/">Aksesibilitas</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6926" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/tata-tertib-pengadilan/">Tata Tertib Pengadilan</a></li>
+	<li id="menu-item-6470" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Informasi Perkara</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6479" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/delegasi/">Delegasi</a></li>
+		<li id="menu-item-6483" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/statistik-perkara/">Statistik Perkara</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-1466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="#">Laporan</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6487" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/hasil-penelitian/">Hasil Penelitian</a></li>
+		<li id="menu-item-6495" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ringkasan-lkjip/">Ringkasan LKjIP</a></li>
+		<li id="menu-item-6491" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/ringkasan-daftar-aset-inventaris/">Ringkasan Daftar Aset &#038; Inventaris</a></li>
+		<li id="menu-item-1710" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-tahunan/">Laporan Tahunan</a></li>
+		<li id="menu-item-3217" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-realisasi-anggaran/">Laporan Keuangan</a></li>
+		<li id="menu-item-6562" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">RKAKL</a></li>
+		<li id="menu-item-6433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://http://pn-takengon.go.id/pnbaru">SAKIP</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/indikator-kerja-utama/">Indikator Kerja Utama</a></li>
+			<li id="menu-item-1719" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/renstra/">Renstra</a></li>
+			<li id="menu-item-1726" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/rencana-kerja-tahunan/">Rencana Kerja Tahunan</a></li>
+			<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/lakip/">LKJIP</a></li>
+			<li id="menu-item-2619" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/rkakl/">RKAKL</a></li>
+			<li id="menu-item-1729" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/dokumen-perjanjian-kinerja/">Dokumen Perjanjian Kinerja</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-6019" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan/analisis-manajemen-risiko/">Analisis Manajemen Resiko</a></li>
+		<li id="menu-item-6437" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-pelayanan-informasi-publik/">Laporan Pelayanan Informasi Publik</a></li>
+		<li id="menu-item-6441" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lhkpn/">LHKPN</a></li>
+		<li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-skm/">Laporan SKM</a></li>
+		<li id="menu-item-6449" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/laporan-spak/">Laporan SPAK</a></li>
+		<li id="menu-item-6578" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/surveiharian/">Survei Harian</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6468" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Pengumuman</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1743" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://tilang.pn-takengon.go.id">Denda Tilang</a></li>
+		<li id="menu-item-6703" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/sisa-panjar-biaya-perkara/">Sisa Panjar Biaya Perkara</a></li>
+		<li id="menu-item-6453" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lelang-barang-dan-jasa/">Lelang Barang dan Jasa</a></li>
+		<li id="menu-item-1740" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://sipp.pn-takengon.go.id/list_jadwal_sidang">Jadwal Sidang</a></li>
+		<li id="menu-item-6735" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Radius Panggilan</a></li>
+		<li id="menu-item-6457" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/panggilan-kepada-pihak-yang-tidak-diketahui-alamatnya/">Panggilan Kepada Pihak Yang Tidak Diketahui Alamatnya</a></li>
+		<li id="menu-item-6461" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/penerimaan-pegawai/">Penerimaan Pegawai</a></li>
+		<li id="menu-item-1461" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/jam-kerja/">Jam Kerja</a></li>
+		<li id="menu-item-1464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/tata-tertib-pengadilan/">Tata Tertib Pengadilan</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1750" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a href="http://www.badilum.info/index.php/article/21">Surat Keputusan Dirjen</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6465" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/prosedur-permohonan-informasi/">Prosedur Permohonan Informasi</a></li>
+	<li id="menu-item-6469" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/">Pengaduan Layanan Publik</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/pengetahuan-publik/">Pengetahuan Publik</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-1871" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/hak-pencari-keadilan/">Hak Pencari Keadilan</a></li>
+			<li id="menu-item-1874" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/prinsip-mengadili/">Prinsip Mengadili</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="#">Layanan Informasi Perkara</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-4691" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pengaduan/">Prosedur Pengaduan</a></li>
+			<li id="menu-item-1484" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a target="_blank" href="http://putusan.mahkamahagung.go.id/direktori">Direktori Putusan</a></li>
+			<li id="menu-item-1741" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-3"><a href="http://sipp.pn-takengon.go.id">Sistem Informasi Penelusuran Perkara</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-1742" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="https://siwas.mahkamahagung.go.id/">SIWAS (Sistem Informasi Pengawasan) MA</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-2828" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-1"><a title="Perpustakaan" href="http://perpustakaan.pn-takengon.go.id/">Perpustakaan</a></li>
+	<li id="menu-item-5657" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/layanan-pengadilan-negeri-takengon/">Layanan Pendukung</a></li>
+	<li id="menu-item-6790" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/e-brosur/">E-Brosur</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1397" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Layanan Hukum</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="#">Layanan Hukum Bagi Masyarakat Kurang Mampu</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6786" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/peraturan-dan-kebijakan/">Peraturan dan Kebijakan</a></li>
+		<li id="menu-item-6781" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/zitting-plat/">Zitting Plat</a></li>
+		<li id="menu-item-6794" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/prosedur-pembebasan-biaya-perkara-prodeo/">Prosedur Pembebasan Biaya Perkara (Prodeo)</a></li>
+		<li id="menu-item-1679" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/posbakum/">Posbakum</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-7450" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://http://pn-takengon.go.id/pnbaru">Prosedur Pengajuan &#038; Biaya Perkara</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-7454" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru">Prosedur Pengajuan Perkara</a>
+		<ul class="sub-menu ">
+			<li id="menu-item-7452" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-gugatan-permohonan/">Perdata Gugatan – Permohonan</a></li>
+			<li id="menu-item-7451" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-kasasi/">Perdata Kasasi</a></li>
+			<li id="menu-item-7453" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-3"><a href="http://pn-takengon.go.id/pnbaru/perdata-banding/">Perdata Banding</a></li>
+		</ul>
+<i class='responsive-caret'></i>
+</li>
+		<li id="menu-item-7455" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/biaya-radius-panggilan/">Biaya Radius Panggilan</a></li>
+		<li id="menu-item-7544" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/Panjar-Biaya-Layanan-Pada-PN-Takengon.pdf">Biaya Layanan Lainnya</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Berita</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1476" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/category/berita-terkini/">Berita Terkini</a></li>
+	<li id="menu-item-1475" class="menu-item menu-item-type-taxonomy menu-item-object-category mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/category/artikel/">Artikel</a></li>
+	<li id="menu-item-1480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/galery-kegiatan/">Photo Gallery</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6094" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/galery-kegiatan/sarana-dan-prasarana/">Sarana dan Prasarana</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/contact-us/video/">Video Gallery</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/mekanisme-gugatan-sederhana/">Mekanisme Gugatan Sederhana</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-1399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="#">Hubungi Kami</a>
+<ul class="sub-menu ">
+	<li id="menu-item-1753" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/alamat-pengadilan/">Alamat Pengadilan</a></li>
+	<li id="menu-item-6391" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/sosial-media/">Sosial Media</a></li>
+	<li id="menu-item-6432" class="menu-item menu-item-type-custom menu-item-object-custom mom_default_menu_item menu-item-depth-1"><a href="https://api.whatsapp.com/send?phone=+6282370060060&amp;text=Halo">MasEndi</a></li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+<li id="menu-item-6374" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-0"><a href="http://pn-takengon.go.id/pnbaru/">Reformasi Birokrasi</a>
+<ul class="sub-menu ">
+	<li id="menu-item-6799" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-parent-item mom_default_menu_item active menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru">Zona Integritas</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6159" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/dokumen-pembangunan-zona-integritas/">Dokumen Pembangunan Zona Integritas</a></li>
+		<li id="menu-item-6635" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-zi/">Struktur ZI</a></li>
+		<li id="menu-item-6800" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/lke-zi/">LKE ZI</a></li>
+		<li id="menu-item-6639" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/inovasi-pengadilan/">Inovasi Pengadilan</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+	<li id="menu-item-6384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item mom_default_menu_item menu-item-depth-1"><a href="http://pn-takengon.go.id/pnbaru/akreditasi-penjaminan-mutu/">Akreditasi Penjaminan Mutu</a>
+	<ul class="sub-menu ">
+		<li id="menu-item-6631" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/struktur-akreditasi/">Struktur Akreditasi</a></li>
+		<li id="menu-item-6643" class="menu-item menu-item-type-post_type menu-item-object-page mom_default_menu_item menu-item-depth-2"><a href="http://pn-takengon.go.id/pnbaru/manual-mutu/">Manual Mutu</a></li>
+	</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>
+<i class='responsive-caret'></i>
+</li>
+</ul>                        </div>
+                                                            
+                </div>
+                </div> <!--nav inner-->
+            </nav> <!--Navigation-->
+                        <div style="height:20px;"></div>
+                        
+            <div class="inner">
+                            </div>
+			
+
+	        <div class="inner">
+                                        <div class="category-title">
+                                        </div>
+                                                                            <p><!--vcv no format--></p>
+<div class="vce-row-container">
+<div id="el-b31df6a1" class="vce-row vce-row--col-gap-30 vce-row-columns--top vce-row-content--top" data-vce-do-apply="all el-b31df6a1">
+<div class="vce-row-content" data-vce-element-content="true">
+<div id="el-1d87fce1" class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first">
+<div class="vce-col-inner" data-vce-do-apply="border margin background el-1d87fce1">
+<div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-1d87fce1">
+<div class="vce-text-block">
+<div id="el-88a36308" class="vce-text-block-wrapper vce" data-vce-do-apply="all el-88a36308">
+<div class="wpb_row vc_row-fluid vc_custom_1453169032614">
+	<div class="vc_span12 wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			
+				<div class="nemus-slider animation-slide controls-outside  fit " id="nemus-slider-1500" data-autoplay="1" data-autoplay-delay="10000" style="height:350px  " data-animation="slide" data-autoheight="" data-orientation="" data-advanced="" data-content_width="">
+			<ul class="slides">
+							
+									<li class="slide slide-1">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/gedung.png);height: 350px  ;"></div>
+													
+																											<div class="caption caption cl anim-right">
+																Selamat Datang di Website Resmi Pengadilan Negeri Takengon Klas II. Website ini merupakan website pengadilan yang sudah memenenuhi standar SK KMA 1-144/2011 tentang Pedoman Pelayanan Informasi di Pengadilan. Pengadilan Negeri Takengon berusaha untuk melaksanakan surat keputusan tersebut dengan mewujudkan sarana dan prasarana informasi yang interaktif dan dinamis agar bermanfaat bagi pencari keadilan khususnya di daerah wilayah hukum Pengadilan Negeri Takengon.															</div>
+													
+																								</li>
+											
+									<li class="slide slide-2">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/04/foto-bersama-2022.jpg);height: 350px  ;"></div>
+													
+																											<div class="caption caption cl anim-right">
+																Segenap Pimpinan dan Seluruh Aparatur Pengadilan Negeri Takengon Berkomitmen Siap Bergerak Mewujudkan Predikat Wilayah Bebas Korupsi (WBK) dan Wilayah Birokrasi Bersih Melayani (WBBM). 															</div>
+													
+																								</li>
+											
+									<li class="slide slide-3">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/04/role-model-web.jpg);height: 350px  ;"></div>
+													
+																			
+																								</li>
+											
+									<li class="slide slide-4">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2020/11/layanan2.jpg);height: 350px  ;"></div>
+													
+																			
+																													<a href="http://pn-takengon.go.id/pnbaru/layanan-pengadilan-negeri-takengon/" 0 class="slide-link"></a>
+																		</li>
+											
+									<li class="slide slide-5">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/SIPP.jpg);height: 350px  ;"></div>
+													
+																			
+																													<a href="http://sipp.pn-takengon.go.id/" 0 class="slide-link"></a>
+																		</li>
+											
+									<li class="slide slide-6">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/IKLAN-SIWAS.jpg);height: 350px  ;"></div>
+													
+																											<div class="caption caption cl anim-right">
+																Jika anda menemukan dugaan pelanggaran kode etik di lingkungan Pengadilan Negeri Takengon dapat disampaikan melalui :
+<br>aplikasi SIWAS
+<br>SMS dan Chat WA dengan Nomor 0813 7687 0830
+<br>email : pntakengon@gmail.com
+<br> Fax 0643 21606
+<br>Telepon 0643 21606
+<br>Meja Pengaduan dan
+<br>Kotak Pengaduan
+yang terdapat dikantor Pengadilan Negeri Takengon.															</div>
+													
+																													<a href="https://siwas.mahkamahagung.go.id/" 0 class="slide-link"></a>
+																		</li>
+											
+									<li class="slide slide-7">
+																											<div class="slide-image" style="background-image:url(http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/02/gif-sipp.gif);height: 350px  ;"></div>
+													
+																			
+																													<a href="http://sipp.pn-takengon.go.id/list_perkara/type/SDFMZ0xrS2ZTeGkrSVR6TGsyeFpMa2w2R2YrMWRhNzZZK3NQakJ4NEdpSVRVMGovSXpTclVzcWVEZ25FL0lxa1NSWWszZmc3cWxWU3o1VnFrbnU0N1E9PQ==" 0 class="slide-link"></a>
+																		</li>
+											
+									<li class="slide slide-8">
+																			<div class="slide-image slide-image-video" style="background-image:url(http://i2.ytimg.com/vi/nbjNpMU9RP8/maxresdefault.jpg);height: 350px  ;">
+								<a href="" class="nemusicon-play start-video"></a>
+							</div>
+							<iframe width="100%" style="height:350px  ;" src="http://www.youtube.com/embed/nbjNpMU9RP8?enablejsapi=1" frameborder="0" allowfullscreen class="youtubeplayer" id="youtubeplayer-1500-8"></iframe>						
+																											<div class="caption caption cl anim-right">
+																e-Court
+The Electronics Justice System
+e-Filing | e-Payment | e-Summons | e-Litigation.
+<a href="https://ecourt.mahkamahagung.go.id/"> <br><br><br><br><br><button>LEBIH LANJUT</button></br></br></br></a>															</div>
+													
+																								</li>
+										</ul>
+		</div>
+				
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div><div class="clear" style="height:60px;"></div>
+<div class="row">
+<table border="1">
+<tr>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    	<a href="http://sipp.pn-takengon.go.id/list_jadwal_sidang/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/ljadwal.png" alt="" width="100" height="90"></a>
+   </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="http://sipp.pn-takengon.go.id/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/lsipp.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="https://ecourt.mahkamahagung.go.id/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/lecourt.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="https://eraterang.badilum.mahkamahagung.go.id/masuk" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/leraterang.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="https://putusan3.mahkamahagung.go.id/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/lputusan.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="http://komdanas.mahkamahagung.go.id/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/lkomdanas.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="https://www.lapor.go.id/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/llapor.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+<td>
+<div class="keke" style="background-color:#f8f8f8;">
+    <a href="http://sipp.pn-takengon.go.id/list_perkara/type/MCtoakwxT0pORlJMVExpclFXQ09TUU5ERE5aLys1bDlwaU9HdktmRkNkVWVTOEw5cEJsZW1RNk5OZGJSZERGM1AzYVQ2YnMycXpHYnh5Zzk5QnZkMXc9PQ==/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/LTILANG.png" alt="" width="100" height="90"></a>
+  </td>
+</div>
+</div>
+<div class="row">
+<table border="1">
+<tr>
+<td>
+<div class="keke" style="background-color:#ffa500;">
+    	<a href="http://esurvey.badilum.mahkamahagung.go.id/index.php/pengadilan/098502/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/LSKM.png" alt="" width="100%" height="100%"></a>
+   </td>
+</div>
+<td>
+<div class="keke" style="background-color:#ffa500;">
+    	<a href="http://esurvey.badilum.mahkamahagung.go.id/index.php/pengadilan/098502/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/LSPAK.png" alt="" width="100%" height="100%"></a>
+   </td>
+</div>
+<td>
+<div class="keke" style="background-color:#ffa500;">
+    <a href="http://esurvey.badilum.mahkamahagung.go.id/index.php/pengadilan/098502/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/06/LSH.png" alt="" width="100%" height="100%"></a>
+  </td>
+</div>
+</div>
+<div class="row">
+<table border="1">
+<tr>
+<td>
+<div class="keke" style="background-color:#ffa500;">
+    	<a href="http://esurvey.badilum.mahkamahagung.go.id/index.php/pengadilan/098502/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/07/IKMT2.jpg" alt="" width="480" height="200"></a>
+   </td>
+</div>
+<td>
+<div class="keke" style="background-color:#ffa500;">
+    <a href="http://esurvey.badilum.mahkamahagung.go.id/index.php/pengadilan/098502/" target="_blank"><img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/07/IPKT2.jpg" alt="" width="480" height="200"></a>
+  </td>
+</div>
+</div>
+<table style="width:975px">
+<p style="text-align: left;">
+<tr>
+<td><iframe width="302" height="190" src="https://www.youtube.com/embed/5iOiczCuVPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</p>
+<td><iframe width="302" height="190" src="https://www.youtube.com/embed/ICro6-CjuKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="302" height="190" src="https://www.youtube.com/embed/03s7LPCWnak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+</tr>
+</div>
+</div>
+</div>
+</div>
+<div data-vce-do-apply="all el-88a36308"></table>
+</div>
+<div class="vce-col-inner" data-vce-do-apply="border margin background el-1d87fce1">
+<div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-1d87fce1">
+<div class="vce-text-block">
+<div class="vce-text-block-wrapper vce" data-vce-do-apply="all el-88a36308">
+<div class="wpb_row vc_row-fluid">
+	<div class="vc_main_col one_side wpb_column column_container">
+		<div class="wpb_wrapper">
+			</p>
+<p>		<!--News box 2 columns-->	
+                <div class="news-box base-box nb-style2 nb-2col ">
+                    <header class="nb-header">
+                        <h2 class="nb-title"><a href="http://pn-takengon.go.id/pnbaru/category/berita-mahkamah-agung/">Berita Mahkamah Agung</a></h2>
+                    </header> <!--nb header-->
+                    <div class="nb-content">
+                            <div class="recent-news">
+				                            <article class="post-7776 post type-post status-publish format-standard hentry category-berita-mahkamah-agung" itemscope itemtype="http://schema.org/Article">
+				                                <div class="news-summary">
+                                   <h3><a href="http://pn-takengon.go.id/pnbaru/ketua-mahkamah-agung-membuka-sosialisasi-aplikasi-e_berpadu/">KETUA MAHKAMAH AGUNG MEMBUKA SOSIALISASI APLIKASI E_BERPADU</a></h3>
+                                   <div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-14T16:53:48+00:00" class="entry-date">September 14, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/ketua-mahkamah-agung-membuka-sosialisasi-aplikasi-e_berpadu/#respond" class="comment_number">Tidak Ada Komentar</a>
+				                                       </div> <!--meta-->
+                                <P>
+					KETUA MAHKAMAH AGUNG MEMBUKA SOSIALISASI APLIKASI E_BERPADU Jakarta &#8211; Humas:  Sebagaimana tela...				   <a href="http://pn-takengon.go.id/pnbaru/ketua-mahkamah-agung-membuka-sosialisasi-aplikasi-e_berpadu/" class="read-more-link">|| LEBIH LANJUT <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                                </div>
+                            </article>
+							    
+                            </div> <!--recent news-->
+                            <div class="older-articles">
+                                <ul>
+				                                      <li class="post-7792 post type-post status-publish format-standard hentry category-berita-mahkamah-agung" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/ketua-mahkamah-agung-membuka-sosialisasi-aplikasi-e_berpadu-2/">KETUA MAHKAMAH AGUNG MEMBUKA SOSIALISASI APLIKASI E_BERPADU</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-14T16:44:48+00:00" class="entry-date">September 14, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/ketua-mahkamah-agung-membuka-sosialisasi-aplikasi-e_berpadu-2/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7780 post type-post status-publish format-standard hentry category-berita-mahkamah-agung" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/lakukan-kunjungan-kerja-ke-iran-ketua-ma-perkenalkan-konsep-peradilan-modern-indonesia/">LAKUKAN KUNJUNGAN KERJA KE IRAN, KETUA MA PERKENALKAN KONSEP PERADILAN MODERN INDONESIA</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-12T08:01:31+00:00" class="entry-date">September 12, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/lakukan-kunjungan-kerja-ke-iran-ketua-ma-perkenalkan-konsep-peradilan-modern-indonesia/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7784 post type-post status-publish format-standard hentry category-berita-mahkamah-agung" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/delegasi-cacj-berkunjung-ke-mahkamah-agung/">DELEGASI CACJ BERKUNJUNG KE MAHKAMAH AGUNG</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-08T15:07:33+00:00" class="entry-date">September 08, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/delegasi-cacj-berkunjung-ke-mahkamah-agung/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7744 post type-post status-publish format-standard hentry category-berita-mahkamah-agung" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/lantik-ketua-pengadilan-tingkat-banding-kma-ingatkan-memangku-jabatan-diawali-dengan-niat-yang-tulus-dan-iklas-2/">LANTIK KETUA PENGADILAN TINGKAT BANDING, KMA INGATKAN MEMANGKU JABATAN DIAWALI DENGAN NIAT YANG TULUS DAN IKLAS</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-01T03:09:22+00:00" class="entry-date">September 01, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/lantik-ketua-pengadilan-tingkat-banding-kma-ingatkan-memangku-jabatan-diawali-dengan-niat-yang-tulus-dan-iklas-2/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+				                                </ul>
+
+                            </div>
+                    </div>
+		                        <footer class="nb-footer">
+                        <a href="http://pn-takengon.go.id/pnbaru/category/berita-mahkamah-agung/" class="show-more-ajax" data-offset="5" data-number_of_posts="4" data-display="category" data-category="43" data-tag="" data-nbs="two_cols" data-sort="DESC" data-orderby="date">Tampilkan Semua <i class="fa-icon-long-arrow-right"></i> </a>
+                    </footer>
+			                    
+                </div> <!--news box-->
+				<!--News box 2 columns-->	
+
+		<!--News box 2 columns-->	
+                <div class="news-box base-box nb-style2 nb-2col last">
+                    <header class="nb-header">
+                        <h2 class="nb-title"><a href="http://pn-takengon.go.id/pnbaru/category/berita-pt-aceh/">Berita PT Aceh</a></h2>
+                    </header> <!--nb header-->
+                    <div class="nb-content">
+                            <div class="recent-news">
+				                            <article class="post-7796 post type-post status-publish format-standard hentry category-berita-pt-aceh" itemscope itemtype="http://schema.org/Article">
+				                                <div class="news-summary">
+                                   <h3><a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-hadiri-sosialisasi-e-berpadu-secara-virtual/">PT BANDA ACEH HADIRI SOSIALISASI E-BERPADU SECARA VIRTUAL</a></h3>
+                                   <div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-16T17:46:53+00:00" class="entry-date">September 16, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-hadiri-sosialisasi-e-berpadu-secara-virtual/#respond" class="comment_number">Tidak Ada Komentar</a>
+				                                       </div> <!--meta-->
+                                <P>
+					&nbsp; Banda Aceh &#8211; (14/09/2022) Pengadilan Tinggi Banda Aceh mengikuti sosialisasi e-berpadu...				   <a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-hadiri-sosialisasi-e-berpadu-secara-virtual/" class="read-more-link">|| LEBIH LANJUT <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                                </div>
+                            </article>
+							    
+                            </div> <!--recent news-->
+                            <div class="older-articles">
+                                <ul>
+				                                      <li class="post-7737 post type-post status-publish format-standard hentry category-berita-pt-aceh" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-terima-kunjungan-tim-monev-sppt-ti/">PT BANDA ACEH TERIMA KUNJUNGAN TIM MONEV SPPT-TI</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-08-29T17:00:55+00:00" class="entry-date">August 29, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-terima-kunjungan-tim-monev-sppt-ti/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7697 post type-post status-publish format-standard hentry category-berita-pt-aceh" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/rapat-keka-pengadilan-tinggi-banda-aceh-semester-i/">RAPAT KEKA PENGADILAN TINGGI BANDA ACEH SEMESTER I</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-07-27T16:07:12+00:00" class="entry-date">July 27, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/rapat-keka-pengadilan-tinggi-banda-aceh-semester-i/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7651 post type-post status-publish format-standard hentry category-berita-pt-aceh" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-tentukan-nilai-assesmen-eksternal-semester-1-tahun-2022/">PT BANDA ACEH TENTUKAN NILAI ASSESMEN EKSTERNAL SEMESTER 1 TAHUN 2022</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-07-27T05:05:39+00:00" class="entry-date">July 27, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pt-banda-aceh-tentukan-nilai-assesmen-eksternal-semester-1-tahun-2022/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7655 post type-post status-publish format-standard hentry category-berita-pt-aceh" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/badilum-melakukan-assesment-pada-pt-banda-aceh/">BADILUM MELAKUKAN ASSESMENT PADA PT BANDA ACEH</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-07-21T05:06:22+00:00" class="entry-date">July 21, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/badilum-melakukan-assesment-pada-pt-banda-aceh/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+				                                </ul>
+
+                            </div>
+                    </div>
+		                        <footer class="nb-footer">
+                        <a href="http://pn-takengon.go.id/pnbaru/category/berita-pt-aceh/" class="show-more-ajax" data-offset="5" data-number_of_posts="4" data-display="category" data-category="41" data-tag="" data-nbs="two_cols" data-sort="DESC" data-orderby="date">Tampilkan Semua <i class="fa-icon-long-arrow-right"></i> </a>
+                    </footer>
+			                    
+                </div> <!--news box-->
+					<div class="clear"></div>
+				<!--News box 2 columns-->	
+
+</p>
+<p>		<!--News box 2 columns-->	
+                <div class="news-box base-box nb-style2 nb-2col ">
+                    <header class="nb-header">
+                        <h2 class="nb-title"><a href="http://pn-takengon.go.id/pnbaru/category/pn-takengon/">Berita PN Takengon</a></h2>
+                    </header> <!--nb header-->
+                    <div class="nb-content">
+                            <div class="recent-news">
+				                            <article class="post-7804 post type-post status-publish format-standard hentry category-pn-takengon category-berita-terkini" itemscope itemtype="http://schema.org/Article">
+				                                <div class="news-summary">
+                                   <h3><a href="http://pn-takengon.go.id/pnbaru/rapat-rutin-bulanan-pembinaan-kepegawaian-evalusi-kinerja-pegawai-dan-evaluasi-kinerja-ppnpn-pengadilan-negeri-takengon-kelas-ii-september-2022/">Rapat Rutin Bulanan, Pembinaan Kepegawaian, Evalusi Kinerja Pegawai dan Evaluasi Kinerja PPNPN Pengadilan Negeri Takengon Kelas II September 2022</a></h3>
+                                   <div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-16T13:52:17+00:00" class="entry-date">September 16, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/rapat-rutin-bulanan-pembinaan-kepegawaian-evalusi-kinerja-pegawai-dan-evaluasi-kinerja-ppnpn-pengadilan-negeri-takengon-kelas-ii-september-2022/#respond" class="comment_number">Tidak Ada Komentar</a>
+				                                       </div> <!--meta-->
+                                <P>
+									   <a href="http://pn-takengon.go.id/pnbaru/rapat-rutin-bulanan-pembinaan-kepegawaian-evalusi-kinerja-pegawai-dan-evaluasi-kinerja-ppnpn-pengadilan-negeri-takengon-kelas-ii-september-2022/" class="read-more-link">|| LEBIH LANJUT <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                                </div>
+                            </article>
+							    
+                            </div> <!--recent news-->
+                            <div class="older-articles">
+                                <ul>
+				                                      <li class="post-7800 post type-post status-publish format-standard hentry category-pn-takengon category-berita-terkini" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/sosialisasi-aplikasi-elektronik-berkas-pidana-terpadu-e-berpadu-secara-daring/">Sosialisasi Aplikasi Elektronik Berkas Pidana Terpadu (e-BERPADU) secara Daring</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-09-14T14:50:35+00:00" class="entry-date">September 14, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/sosialisasi-aplikasi-elektronik-berkas-pidana-terpadu-e-berpadu-secara-daring/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7749 post type-post status-publish format-standard hentry category-pn-takengon category-berita-terkini" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/pembinaan-teknis-administrasi-yudisial-oleh-pimpinan-mahkamah-agung-ri/">PEMBINAAN TEKNIS &#038; ADMINISTRASI YUDISIAL OLEH PIMPINAN MAHKAMAH AGUNG RI</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-08-25T12:06:55+00:00" class="entry-date">August 25, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pembinaan-teknis-administrasi-yudisial-oleh-pimpinan-mahkamah-agung-ri/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7643 post type-post status-publish format-standard hentry category-pn-takengon" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/dialog-yudisial-indonesia-australia-dan-malaysia-perlindungan-hak-perempuan-dan-anak-dalam-perkara-perceraian/">Dialog Yudisial Indonesia, Australia, Dan Malaysia : Perlindungan Hak Perempuan Dan Anak Dalam Perkara Perceraian</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-07-27T12:01:55+00:00" class="entry-date">July 27, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/dialog-yudisial-indonesia-australia-dan-malaysia-perlindungan-hak-perempuan-dan-anak-dalam-perkara-perceraian/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-7647 post type-post status-publish format-standard hentry category-pn-takengon category-berita-terkini" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/rangakaian-apel-persiapan-penanggulangan-bencana-alam-dan-karhutla-di-kabupaten-aceh-tengah/">Rangakaian Apel Persiapan Penanggulangan Bencana Alam Dan KARHUTLA Di Kabupaten Aceh Tengah</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2022-07-27T11:03:19+00:00" class="entry-date">July 27, 2022</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/rangakaian-apel-persiapan-penanggulangan-bencana-alam-dan-karhutla-di-kabupaten-aceh-tengah/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+				                                </ul>
+
+                            </div>
+                    </div>
+		                        <footer class="nb-footer">
+                        <a href="http://pn-takengon.go.id/pnbaru/category/pn-takengon/" class="show-more-ajax" data-offset="5" data-number_of_posts="4" data-display="category" data-category="39" data-tag="" data-nbs="two_cols" data-sort="DESC" data-orderby="date">Tampilkan Semua <i class="fa-icon-long-arrow-right"></i> </a>
+                    </footer>
+			                    
+                </div> <!--news box-->
+				<!--News box 2 columns-->	
+
+		<!--News box 2 columns-->	
+                <div class="news-box base-box nb-style2 nb-2col last">
+                    <header class="nb-header">
+                        <h2 class="nb-title"><a href="http://pn-takengon.go.id/pnbaru/category/artikel/">Artikel</a></h2>
+                    </header> <!--nb header-->
+                    <div class="nb-content">
+                            <div class="recent-news">
+				                            <article class="post-6764 post type-post status-publish format-standard hentry category-artikel" itemscope itemtype="http://schema.org/Article">
+				                                <div class="news-summary">
+                                   <h3><a href="http://pn-takengon.go.id/pnbaru/pendekatan-hukum-perdata-internasional-dalam-penyelesaian-sengketa-kontrak-komersial-internasional-berbahasa-asing/">PENDEKATAN HUKUM PERDATA INTERNASIONAL DALAM PENYELESAIAN SENGKETA KONTRAK KOMERSIAL INTERNASIONAL BERBAHASA ASING</a></h3>
+                                   <div class="mom-post-meta nb-item-meta">
+                                <span datetime="2021-05-19T13:04:51+00:00" class="entry-date">May 19, 2021</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pendekatan-hukum-perdata-internasional-dalam-penyelesaian-sengketa-kontrak-komersial-internasional-berbahasa-asing/#respond" class="comment_number">Tidak Ada Komentar</a>
+				                                       </div> <!--meta-->
+                                <P>
+					PENDEKATAN HUKUM PERDATA INTERNASIONAL DALAM PENYELESAIAN SENGKETA KONTRAK KOMERSIAL INTERNASIONAL B...				   <a href="http://pn-takengon.go.id/pnbaru/pendekatan-hukum-perdata-internasional-dalam-penyelesaian-sengketa-kontrak-komersial-internasional-berbahasa-asing/" class="read-more-link">|| LEBIH LANJUT <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                                </div>
+                            </article>
+							    
+                            </div> <!--recent news-->
+                            <div class="older-articles">
+                                <ul>
+				                                      <li class="post-6768 post type-post status-publish format-standard hentry category-artikel" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/menjaga-wibawa-dan-martabat-peradilan-melalui-protokol-persidangan-dan-keamanan/">MENJAGA WIBAWA DAN MARTABAT PERADILAN MELALUI PROTOKOL PERSIDANGAN DAN KEAMANAN</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2021-01-12T01:10:15+00:00" class="entry-date">January 12, 2021</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/menjaga-wibawa-dan-martabat-peradilan-melalui-protokol-persidangan-dan-keamanan/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-5451 post type-post status-publish format-standard hentry category-artikel" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/pembangunan-hukum-perdata-melalui-yurisprudensi/">PEMBANGUNAN HUKUM PERDATA MELALUI YURISPRUDENSI</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2020-07-22T07:55:05+00:00" class="entry-date">July 22, 2020</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pembangunan-hukum-perdata-melalui-yurisprudensi/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-3945 post type-post status-publish format-standard hentry category-artikel" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/legalitas-tanda-tangan-elektronik-pejabat-dalam-rangka-mendukung-e-government/">LEGALITAS TANDA TANGAN ELEKTRONIK PEJABAT DALAM RANGKA MENDUKUNG E-GOVERNMENT</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2019-08-28T01:43:06+00:00" class="entry-date">August 28, 2019</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/legalitas-tanda-tangan-elektronik-pejabat-dalam-rangka-mendukung-e-government/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+		                                      <li class="post-3844 post type-post status-publish format-standard hentry category-artikel" itemscope itemtype="http://schema.org/Article">
+				                                        <div class="details ">
+				<h4><a href="http://pn-takengon.go.id/pnbaru/pelayanan-terpadu-satu-pintu-sebagai-pintu-gerbang-wilayah-bebas-korupsi-dan-wilayah-birokrasi-bersih-melayani/">PELAYANAN TERPADU SATU PINTU SEBAGAI PINTU GERBANG WILAYAH BEBAS KORUPSI DAN WILAYAH BIROKRASI BERSIH MELAYANI</a></h4>
+				<div class="mom-post-meta nb-item-meta">
+                                <span datetime="2019-07-23T02:45:04+00:00" class="entry-date">July 23, 2019</span>
+                                    <a href="http://pn-takengon.go.id/pnbaru/pelayanan-terpadu-satu-pintu-sebagai-pintu-gerbang-wilayah-bebas-korupsi-dan-wilayah-birokrasi-bersih-melayani/#respond" class="comment_number">Tidak Ada Komentar</a>
+                                   </div> <!--meta-->
+									   
+					</div>
+                                    </li>
+				                                </ul>
+
+                            </div>
+                    </div>
+		                        <footer class="nb-footer">
+                        <a href="http://pn-takengon.go.id/pnbaru/category/artikel/" class="show-more-ajax" data-offset="5" data-number_of_posts="4" data-display="category" data-category="42" data-tag="" data-nbs="two_cols" data-sort="DESC" data-orderby="date">Tampilkan Semua <i class="fa-icon-long-arrow-right"></i> </a>
+                    </footer>
+			                    
+                </div> <!--news box-->
+					<div class="clear"></div>
+				<!--News box 2 columns-->	
+
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="ff-root fruitful_tabs type-default from-shortcodes" data-type="default"
+	 data-break="767" >
+	<br />
+<div class="fruitful_tabs_tab">
+	<div class="ff-inside">
+					<h4 class="ff-title">Prosedur Permohonan Informasi</h4>
+				<div class="ff-tab-content">
+			</p>
+<p>Ketua Mahkamah Agung RI pada tanggal 5 Januari 2011 telah menerbitkan Surat Keputusan Ketua Mahkamah Agung RI Nomor 1-144/KMA/SK/I/2011 tentang Pedoman Pelayanan Informasi di Pengadilan  || LEBIH LANJUT || 		</div>
+	</div>
+</div><br />
+<div class="fruitful_tabs_tab">
+	<div class="ff-inside">
+					<h4 class="ff-title">Pengaduan</h4>
+				<div class="ff-tab-content">
+			</p>
+<p>pengaduan Syarat dan tata cara pengaduan mengacu pada Lampiran Keputusan Ketua Mahkamah Agung RI No. 076/KMA/SK/VI/2009 tanggal 4 Juni 2009 tentang Pedoman Pelaksanaan Penanganan Pengaduan di Lingkungan Lembaga Peradilan || LEBIH LANJUT ||  		</div>
+	</div>
+</div><br />
+<div class="fruitful_tabs_tab">
+	<div class="ff-inside">
+					<h4 class="ff-title">Prosedur Bantuan Hukum</h4>
+				<div class="ff-tab-content">
+			</p>
+<p>posbakum Mahkamah Agung RI pada tanggal 9 Januari 2014 telah menerbitkan Peraturan Mahkamah Agung Republik Indonesia Nomor 1 Tahun 2014 tentang Pedoman Pemberian Layanan Hukum Bagi Masyarakat Tidak Mampu di Pengadilan || LEBIH LANJUT || 		</div>
+	</div>
+</div><br />
+</div><br />
+<div class="ff-root fruitful_tabs type-default from-shortcodes" data-type="default"
+	 data-break="767" >
+	<br />
+<iframe width="640" height="300" src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/05/moto-1.png" data-uw-styling-context="true"><br />
+</iframe><br />
+</div><br />
+<div class="ff-root fruitful_tabs type-default from-shortcodes" data-type="default"
+	 data-break="767" >
+	<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BXzX1U8kYfY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" data-uw-styling-context="true"></iframe><br />
+</div>
+
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_sec_sidebar sidebar secondary-sidebar wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+
+	<div class="vc_sidebar sidebar main-sidebar wpb_column column_container">
+		<div class="wpb_wrapper">
+			
+	<div class="wpb_video_widget wpb_content_element">
+		<div class="wpb_wrapper"><h2 class="wpb_heading wpb_video_heading">Gugatan Sederhana</h2><div class="wpb_video_wrapper"><iframe width="500" height="281" src="https://www.youtube.com/embed/NxGs557ESno?start=4&feature=oembed" frameborder="0" gesture="media" allowfullscreen></iframe></div>
+		</div> 
+	</div>  
+	<div class="wpb_video_widget wpb_content_element">
+		<div class="wpb_wrapper"><h2 class="wpb_heading wpb_video_heading">Ecourt Mahkamah Agung</h2><div class="wpb_video_wrapper"><iframe width="500" height="281" src="https://www.youtube.com/embed/EWsS486KpXQ?start=4&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		</div> 
+	</div> 
+	<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			<div class="widget widget_text"><div class="widget-head"><h3 class="widget-title"><span>Link Terkait</span></h3></div>			<div class="textwidget"><style>
+.keke{
+text-transform: uppercase;
+margin-top:10px;
+}
+
+
+</style>
+
+<div class="keke">
+<ul>
+<li><a href="http://putusan.mahkamahagung.go.id" target="_blank" title="Direktori Putusan">Semua Direktori Putusan</a></li>
+<li><a href="https://putusan.mahkamahagung.go.id/pengadilan/pn-takengon" target="_blank" title="Putusan Pengadilan Takengon">Putusan PN Takengon</a></li>
+<li><a href="https://jdih.mahkamahagung.go.id/"="_blank" title="JDIH Mahkamah Agung">JDIH Mahkamah Agung</a></li>
+<li><a href="http://e-learning.mahkamahagung.go.id/" target="_blank" title="Pembelajaran Online MA RI ">E-Learning</a></li>
+<li><a href="http://putusan.mahkamahagung.go.id" target="_blank" title="Direktori Putusan">Semua Direktori Putusan</a></li>
+<li><a href="https://www.mahkamahagung.go.id/id" target="_blank" title="Website Resmi Mahakamah Agung RI">Mahkamah Agung</a></li>
+<li><a href="https://badilum.mahkamahagung.go.id/" target="_blank" title="Website Resmi Badan Peradilan Umum">Badilum</a></li>
+<li><a href="http://www.pt-nad.go.id/" target="_blank" title="Website Pengadilan Tinggi Banda Aceh">Pengadilan Tinggi Banda Aceh</a></li>
+<li><a href="http://kejaksaan-acehtengah.kejaksaan.go.id/" target="_blank" title="Website Kejaksaan Negeri Aceh Tengah">Kejaksaan Negeri Aceh Tengah</a></li>
+<ul>
+
+</div>
+</div>
+		</div><div class="widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<div class="box-body block-body"><a href="http://pn-takengon.go.id/pnbaru/profil-agen-perubahan/" target="_blank" rel="noopener"><br />
+<img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/05/rolee.jpg" width="300" height="70" align="middle" border="0" /></a><br />
+</a></div>
+<p><script src="https://code.responsivevoice.org/responsivevoice.js?key=mlrBp8Uu"></script></p>
+</div>
+		</div><div class="widget widget_text">			<div class="textwidget"><p><script type='text/javascript'>
+var onWebChat={ar:[], set: function(a,b){if (typeof onWebChat_==='undefined'){this.ar.
+push([a,b]);}else{onWebChat_.set(a,b);}},get:function(a){return(onWebChat_.get(a));},
+w:(function(){ var ga=document.createElement('script'); ga.type = 'text/javascript';
+ga.async=1;ga.src=('https:'==document.location.protocol?'https:':'http:') + 
+'//www.onwebchat.com/clientchat/031d8147d39e3cede1ca4731e93c4ecb';var s=
+document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})()}
+</script><br />
+<a class="py-4 px-10 rounded-full font-bold relative flex" id="Asuransi Smartphone Terbaik di Qoala" href="https://www.qoala.app/id/asuransi/smartphone?utm_medium=button_floating&#038;utm_content=gaya_hidup_gawai&#038;utm_source=blog_id&#038;utm_campaign=insurance_smartphone" target="" rel="" style="color: #ffffff; background-color: #ff6b00; border-color: #ff6b00;white-space: nowrap; font-size: 1rem" title="Lindungi Gadget-mu dari Kerusakan Di Sini"><br />
+                            Lindungi Gadget-mu dari Kerusakan Di Sini                        </a></p>
+<div style="position: fixed; left: 20px; bottom: 265px; text-align: center;"><a href="http://pn-takengon.go.id/pnbaru/aksesibilitas-difabel/"><img class="widget-wa1 alignnone" src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/09/oren3.png" alt="" width="43" height="43" /></a></div>
+<div style="position: fixed; left: 20px; bottom: 165px; text-align: center;"><a href="https://api.whatsapp.com/send?phone=+6281376870830&#038;text=Assalamualaikum"><img class="widget-wa1 alignnone" src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/09/oren1.png" alt="" width="43" height="43" /></a></div>
+<p><img class="ui_b" src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/09/oren3.png" alt="http://pn-takengon.go.id/pnbaru/aksesibilitas-difabel/" width="43" height="43" data-uw-rm-ignore="" aria-hidden="true" /></p>
+<div class="box-body block-body"><a href="https://www.facebook.com/profile.php?id=100015246304149" target="_blank" rel="noopener"> <img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2020/06/fb-e1615285205492.png" width="300" height="70" align="middle" border="0" /></a> <a href="https://www.instagram.com/pntakengon/" target="_blank" rel="noopener"> <img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2020/06/ig-e1615285246142.png" width="300" height="70" align="middle" border="0" /></a> <a href="https://www.youtube.com/channel/UCTTlnrLCJXdFdzH-Kk44KGQ" target="_blank" rel="noopener"> <img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2020/06/yutub-e1615285227621.png" width="300" height="70" align="middle" border="0" /></a> <a href="https://api.whatsapp.com/send?phone=+6281376870830&#038;text=Halo" target="_blank" rel="noopener"> <img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2020/06/wa-e1615285263389.png" width="300" height="70" align="middle" border="0" /> </a></div>
+<p><script src="https://code.responsivevoice.org/responsivevoice.js?key=mlrBp8Uu"></script></p>
+</div>
+		</div><div class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">&nbsp;
+<div class="box-body block-body"><a href="http://pn-takengon.go.id/pnbaru/jam-kerja/" target="_blank" rel="noopener">
+<img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2022/08/JamKerja.png" width="300" height="70" align="middle" border="0" /></a>
+</div></div>
+		</div> 
+	</div> 
+		</div> 
+	</div> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="vce-row-container"> <div class="clear" style="height:40px;"></div></div>
+<p><!--vcv no format--></p>
+                                                                                                     
+</div> <!--main inner-->
+            
+
+                </div>
+            </div>
+			
+			
+			            <footer id="footer">
+                <div class="inner">
+	     			<div class="one_half">
+		<div class="widget widget_text">			<div class="textwidget"><p>Copyright © Pengadilan Negeri Takengon, Design By <a href="https://www.facebook.com/profile.php?id=100015246304149&#038;fref=ts">PTIP</a></p>
+</div>
+		</div>			</div>
+			<div class="one_half last">
+			        			</div>
+	        
+
+        <div class="clear"></div>                    
+                </div> <!--// footer inner-->
+            </footer> <!--//footer-->
+
+			
+			            <div class="copyrights-area">
+                <div class="inner">
+                    <p class="copyrights-text"></p>
+                        <ul class="mom-social-icons">
+                    <li class="twitter"><a class="vector_icon" href="#"><i class="fa-icon-twitter"></i></a></li>
+        
+                <li class="facebook"><a class="vector_icon" href="https://www.facebook.com/profile.php?id=100015246304149"><i class="fa-icon-facebook "></i></a></li>        
+        
+                   <li class="gplus"><a class="vector_icon" href="#" ><i class="fa-icon-google-plus"></i></a></li>     
+        
+                        <li class="linkedin"><a class="vector_icon" href="#"><i class="fa-icon-linkedin"></i></a></li>
+        
+                        <li class="youtube"><a class="vector_icon" href="https://www.youtube.com/channel/UCTTlnrLCJXdFdzH-Kk44KGQ"><i class="fa-icon-youtube"></i></a></li>
+                
+
+        
+
+        
+        
+                	
+	    </ul>            <div class="clear"></div>
+        </div> <!--Boxed wrap-->
+        <a href="#" class="scrollToTop"><i class="enotype-icon-arrow-up"></i></a>
+	        
+
+            <script>
+                ;(function () { window.wpDarkMode = {"config":{"brightness":100,"contrast":90,"sepia":10},"enable_preset":false,"customize_colors":false,"colors":{"bg":"#000","text":"#dfdedb","link":"#e58c17"},"enable_frontend":true,"enable_backend":false,"enable_os_mode":true,"excludes":"rs-fullwidth-wrap,.mejs-container","includes":"","is_excluded":false,"remember_darkmode":false,"default_mode":false,"keyboard_shortcut":true,"url_parameter":false,"images":"","videos":"","is_pro_active":false,"is_ultimate_active":false,"pro_version":0,"is_elementor_editor":false,"is_block_editor":false,"frontend_mode":false}; window.checkOsDarkMode = () => { if (!window.wpDarkMode.enable_os_mode || localStorage.getItem('wp_dark_mode_active')) return false; const darkMediaQuery = window.matchMedia('(prefers-color-scheme: dark)'); if (darkMediaQuery.matches) return true; try { darkMediaQuery.addEventListener('change', function(e) { return e.matches == true; }); } catch (e1) { try { darkMediaQuery.addListener(function(e) { return e.matches == true; }); } catch (e2) { console.error(e2); return false; } } return false; }; const is_saved = localStorage.getItem('wp_dark_mode_active'); const shouldDarkMode = is_saved == '1' || (!is_saved && window.checkOsDarkMode()); if (shouldDarkMode) { const isCustomColor = parseInt(""); const isPerformanceMode = Boolean(); if (!isCustomColor && !isPerformanceMode) { if (document.getElementById('pre_css')) { document.getElementById('pre_css').remove(); } if ('' === ``) { if(typeof DarkMode === 'object') DarkMode.enable(); } } } })(); 
+            </script>
+
+						<!-- Fruitful Shortcodes Custom Styles -->
+			<style>
+						</style>
+			<div id='glt-footer'><div id="google_language_translator" class="default-language-id"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'id', includedLanguages:'en,id', autoDisplay: false}, 'google_language_translator');}</script><script>
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'tCSykEWcbF');
+                  el.setAttribute('src', 'https://cdn.userway.org/widget.js');
+                  document.body.appendChild(el);
+                })();
+              </script><div class="wp-dark-mode-switcher wp-dark-mode-ignore  style-1  floating right_bottom">
+
+	
+    <label for="wp-dark-mode-switch" class="wp-dark-mode-ignore wp-dark-mode-none">
+        <div class="modes wp-dark-mode-ignore">
+            <img class="light" src="http://pn-takengon.go.id/pnbaru/tkn/plugins/wp-dark-mode/assets/images/btn-1/light.png" alt="Light">
+            <img class="dark" src="http://pn-takengon.go.id/pnbaru/tkn/plugins/wp-dark-mode/assets/images/btn-1/dark.png" alt="Dark">
+        </div>
+    </label>
+
+</div><link rel='stylesheet' id='screenreader-styles-handle-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/controller/css/main.css?ver=4.8.20' type='text/css' media='all' />
+<link rel='stylesheet' id='nemus-slider-css-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/nemus-slider/assets/frontend/nemus-slider.css?ver=4.8.20' type='text/css' media='all' />
+<style id='nemus-slider-css-inline-css' type='text/css'>
+#nemus-slider-1500 .nemus-direction-nav a {color:#ffffff;} #nemus-slider-1500 .nemus-control-paging li a {background:#ffffff;background:rgba(255,255,255,0.1);border-color:#ffffff;border-color:rgba(255,255,255,0.5);}#nemus-slider-1500 .nemus-control-paging li a:hover,#nemus-slider-1500 .nemus-control-paging li a.nemus-active{background:#ffffff;background:rgba(255,255,255,0.7);}
+</style>
+<link rel='stylesheet' id='ff-fruitful_tabs-css'  href='http://pn-takengon.go.id/pnbaru/tkn/plugins/fruitful-shortcodes/fruitful-shortcodes-2.0.0//assets/shared/fruitful_tabs/css/styles.css?ver=071120180241' type='text/css' media='all' />
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/visualcomposer/public/dist/front.bundle.js?ver=27.1'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/visualcomposer/public/dist/runtime.bundle.js?ver=27.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/pn-takengon.go.id\/pnbaru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.5'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/fruitful-shortcodes/fruitful-shortcodes-2.0.0/assets/js/front.min.js?ver=071120180241'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/google-language-translator/js/scripts.js?ver=6.0.4'></script>
+<script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/simple-image-popup/js/jquery.magnific-popup.min.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/pnbaru\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/wp-util.min.js?ver=4.8.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpDarkMode = {"config":{"brightness":100,"contrast":90,"sepia":10},"enable_preset":"","customize_colors":"","colors":{"bg":"#000","text":"#dfdedb","link":"#e58c17"},"enable_frontend":"1","enable_backend":"","enable_os_mode":"1","excludes":"rs-fullwidth-wrap,.mejs-container","includes":"","is_excluded":"","remember_darkmode":"","default_mode":"","keyboard_shortcut":"1","url_parameter":"","images":"","videos":"","is_pro_active":"","is_ultimate_active":"","pro_version":"0","is_elementor_editor":"","is_block_editor":"","frontend_mode":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/wp-dark-mode/assets/js/frontend.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/js/plugins.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var momAjaxL = {"url":"http:\/\/pn-takengon.go.id\/pnbaru\/wp-admin\/admin-ajax.php","nonce":"e01cbd3b08","success":"check your email to complete subscription","error":"Email invalid or already subscribed","werror":"Enter a valid city name.","nomore":"Tidak Ada Berita Lainnya","homeUrl":"http:\/\/pn-takengon.go.id\/pnbaru","viewAll":"View All","noResults":"Sorry, no posts matched your criteria","bodyad":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/themes/samsul/js/jquery.prettyPhoto.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGlobus = {"version":"2.4.17","language":"en","enabledLanguages":["en","es","de","fr","ru"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/wpglobus/includes/js/wpglobus.min.js?ver=2.4.17'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/wp-includes/js/wp-embed.min.js?ver=4.8.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderSoundManagerOptions = {"url":"http:\/\/pn-takengon.go.id\/pnbaru\/tkn\/plugins\/screen-reader-with-fontsize\/libraries\/tts\/soundmanager\/swf\/","volume":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/js/params.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/languages/en-GB.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/tts/soundmanager/soundmanager2.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/tts/tts.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/controller/controller.js?ver=4.8.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderConfigOptions = {"baseURI":"http:\/\/pn-takengon.go.id\/pnbaru\/tkn\/plugins\/screen-reader-with-fontsize\/","token":"55a6d2ec3b5fde4b7a246ff32969acb8","langCode":"en","chunkLength":"100","screenReaderVolume":"100","position":"bottomright","scrolling":"fixed","targetAppendto":"body","targetAppendMode":"bottom","preload":"0","readPage":"0","readChildNodes":"1","ieHighContrast":"0","ieHighContrastAdvanced":"0","excludeScripts":"1","readImages":"0","readImagesAttribute":"alt","readImagesOrdering":"before","mainpageSelector":"*[name*=main], *[class*=main], *[id*=main]","showlabel":"1","screenreader":"1","highcontrast":"0","highcontrastAlternate":"0","colorHue":"180","colorBrightness":"6","fontsize":"1","fontsizeDefault":"100","fontsizeMin":"50","fontsizeMax":"200","fontsizeSelector":"","fontSizeOverride":"1","fontSizeHeadersIncrement":"20","toolbarBgcolor":"#dd8500","template":"main.css","accesskey_play":"P","accesskey_pause":"E","accesskey_stop":"S","accesskey_increase":"O","accesskey_decrease":"U","accesskey_reset":"R","accesskey_highcontrast":"H","accesskey_highcontrast2":"J","accesskey_highcontrast3":"K","readerEngine":"proxy","hideOnMobile":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/screen-reader-with-fontsize/libraries/js/params.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/js_composer/assets/js/js_composer_front.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/nemus-slider/assets/frontend/nemus-slider.js?ver=4.8.20'></script>
+<script type='text/javascript' src='http://pn-takengon.go.id/pnbaru/tkn/plugins/fruitful-shortcodes/fruitful-shortcodes-2.0.0//assets/shared/fruitful_tabs/js/scripts.min.js?ver=071120180241'></script>
+
+
+									                            
+
+									                        <div id="popup" class="sip_popup mfp-hide" style="max-width:750px">
+
+									                                    
+
+                <img src="http://pn-takengon.go.id/pnbaru/tkn/uploads/2021/03/pop-up-compress.jpg"   id="closeimage" style="cursor:pointer"   class="sip_inner_image">
+
+
+
+                
+    </div>
+
+
+<script>
+
+var $open = false;
+var $popup = localStorage.getItem('60472e3b6129b');
+
+if(!$popup)
+{
+
+    var $time = new Date();
+
+            $time.setMinutes($time.getMinutes() + 5);
+    
+    localStorage.setItem('60472e3b6129b', $time);
+
+    $open = true;
+
+}
+else {
+
+    var $time_now = new Date();
+    var $last_opened = new Date($popup);
+
+
+
+        if($time_now >= $last_opened)
+        {
+
+           $open = true;
+
+           localStorage.removeItem('60472e3b6129b');
+
+           var $time = new Date();
+
+                            $time.setMinutes($time.getMinutes() + 5);
+            
+           localStorage.setItem('60472e3b6129b', $time);
+        }
+
+
+        else {
+         $open = false;
+        }
+
+}
+
+if($open)
+{
+
+
+    jQuery(document).ready(function ($) {
+        // Open lightbox
+        setTimeout(function () {
+            $.magnificPopup.open({
+                midClick: true,
+                showCloseBtn: true,
+                removalDelay: 300,
+                items: {
+                    src: "#popup",
+                    type: "inline"
+                }
+            })
+        }, 1000);
+
+
+        
+            $("#closeimage").on("click", function () {
+                $.magnificPopup.close();
+            });
+
+
+            $("#close").on("click", function () {
+                $.magnificPopup.close();
+            });
+
+            });
+
+}
+
+</script>
+
+
+
+    <style type="text/css" data-type="vc-shortcodes-custom-css">.vc_custom_1453169032614{margin-right: -22px !important;margin-left: -22px !important;background-color: #9a2109 !important;border-color: #9a2109 !important;}</style>  <div style="position: absolute; overflow: hidden; clip: rect(0 0 0 0); height: 1px; width: 1px; margin: -1px; padding: 0; border: 0;">Situs <a href="https://koppi.isi.ac.id/wp-content/slot777/">slot777</a> menjadi platform yang sangat terkenal berkat permainan slot online yang sedang viral. Namun, Anda juga bisa bermain judi bola di <a href="https://sttiman.ac.id/bola-gacor/">bola gacor</a> dengan aman dan nyaman. Untuk memilih <a href="https://mixedbusinessla.com">situs slot777</a> terpercaya, dibutuhkan banyak keahlian. <a href="https://recallmtsd.com">recallmtsd.com</a> & <a href="https://jendelaslot.com">jendelaslot.com</a></div>  </body>
+</html>
